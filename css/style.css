@@ -1,0 +1,64 @@
+path {
+fill: black;
+stroke: #666;
+stroke-width: .5px;
+}
+
+.land-boundary {
+stroke-width: 1px;
+}
+
+.county-boundary {
+stroke: #ddd;
+}
+body{
+    background-color: rgba(0,0,0,0.86);
+  }
+h1,h2{
+font-family: Helvetica;
+margin:20px;
+}
+h1,h2,div{
+color: white;
+}
+.store {
+stroke-width: .5px;
+opacity:0.5;
+}
+  #titleContainer{
+position: absolute;
+top: 30px;
+z-index: 999999;
+left:3.5%;
+color: #007dc6;
+font-family: "Helvetica Neue", Helvetica, Sans-Serif;
+font-weight: 300;
+font-size: 36px;
+width:50%;
+}
+#feed {
+color: #ffc220;
+font-family: "Helvetica Neue", Helvetica, Sans-Serif;
+font-weight: 200;
+font-size: 18px;
+}
+#year{
+top: 5%;
+left:2%;
+z-index: 10000;
+position: absolute;
+font-family: "Helvetica Neue", Helvetica, Sans-Serif;
+font-weight: 100;
+font-size: 60px;
+}
+#slider {
+width: 100%;
+background-color: black;
+opacity:0.7;
+right: 0;
+bottom: 0;
+left: 0;
+z-index: 10000;
+position: absolute;
+margin: 10px 0px;
+}
