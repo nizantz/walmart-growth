@@ -59,7 +59,8 @@ var displayStores = function(data) {
         .remove();
 };//displayStores
 
-var datetimeOutput = d3.select('#year').append('p');
+var dateTimeOutput = d3.select('#year').append('p');
+var storeCountOutput = d3.select('#storenum').append('p');
 var dFormat = d3.time.format("%Y");
 d3.select('#slider')
   .append('div')
@@ -71,9 +72,11 @@ d3.select('#slider')
       // hours and minutes - time format
       .labelFormat(d3.time.format('%Y'))
       .on('change', function(d) {
-                datetimeOutput.text(dFormat(d3.time.day(d)));
+                dateTimeOutput.text("Year: "+dFormat(d3.time.day(d)));
+
               var newData = plotData.filter( function(t) {
               if (moment(t.opening_date,"YYYY-MM-DD HH:mm:ss").unix() < moment(d).unix()){
+                  storeCountOutput.text("Store Count: "+d3.format(",")(t.store_num));
                   return t.opening_date;}
               })
             displayStores(newData);
