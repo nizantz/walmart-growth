@@ -43,8 +43,8 @@ font-weight: 200;
 font-size: 18px;
 }
 #year{
-top: 5%;
-left:2%;
+top: 60px;
+left:5%;
 z-index: 10000;
 position: absolute;
 font-family: "Helvetica Neue", Helvetica, Sans-Serif;
@@ -52,8 +52,8 @@ font-weight: 100;
 font-size: 18px;
 }
 #storenum{
-top: 15%;
-left:2%;
+top: 80px;
+left:5%;
 z-index: 10000;
 position: absolute;
 font-family: "Helvetica Neue", Helvetica, Sans-Serif;
