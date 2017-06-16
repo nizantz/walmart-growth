@@ -28,14 +28,14 @@ loadMap();
 function loadMap(){
   map = new mapboxgl.Map({
                     container: 'map', // container id
-                    style: 'mapbox://styles/mapbox/dark-v9',
+                    style: 'mapbox://styles/mapbox/satellite-v9',
                     //center: [34.8951,98.0364],
                     center: [-98.0364,34.8951],
                     zoom: 4
                 });  
   map.scrollZoom.disable();
-  map.doubleClickZoom.disable();
-  map.addControl(new mapboxgl.Navigation());
+  //map.doubleClickZoom.disable();
+  //map.addControl(new mapboxgl.Navigation());
                 // Setup our svg layer that we can manipulate with d3
                 var container = map.getCanvasContainer();
                 var svg1 = d3.select(container).append("svg").attr("width", mapWidth).attr("height", mapHeight);
