@@ -22,3 +22,7 @@ Start server (on mac) :
 ```
 
 Access the URL -> http://localhost:5555
+
+# Update:
+Created another map using the same data. This time data is visualized using mapbox gl and mapbox vector tiles (and d3).
+Access the URL -> http://localhost:5555/map.html
