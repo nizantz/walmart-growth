@@ -28,7 +28,7 @@ loadMap();
 function loadMap(){
   map = new mapboxgl.Map({
                     container: 'map', // container id
-                    style: 'mapbox://styles/mapbox/satellite-v9',
+                    style: 'mapbox://styles/mapbox/dark-v9',
                     //center: [34.8951,98.0364],
                     center: [-98.0364,34.8951],
                     zoom: 4
