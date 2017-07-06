@@ -25,7 +25,7 @@ d3.json(mapPath, function(error, us) {
         .attr("class", "land-boundary");
 
     var maxDate,minDate;
-    d3.json("fixtures/walmart.json", function (error, collection) {
+    d3.json("fixtures/target.json", function (error, collection) {
             plotData = collection;
             console.log(minDate);
 
@@ -34,7 +34,7 @@ d3.json(mapPath, function(error, us) {
 var displayStores = function(data) {
     var stores = svg.selectAll(".store")
             .data(data, function(d) {
-            return d.name;
+            return d.store_num;
             });
 
   stores.enter().append("circle")
@@ -68,7 +68,7 @@ d3.select('#slider')
   .call(
     chroniton()
     .width(sliderWidth)
-    .domain([new Date("1961"),new Date("2007")])
+    .domain([new Date("1962"),new Date("2008")])
       // hours and minutes - time format
       .labelFormat(d3.time.format('%Y'))
       .on('change', function(d) {

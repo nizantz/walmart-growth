@@ -28,7 +28,7 @@ loadMap();
 function loadMap(){
   map = new mapboxgl.Map({
                     container: 'map', // container id
-                    style: 'mapbox://styles/mapbox/satellite-v9',
+                    style: 'mapbox://styles/mapbox/dark-v9',
                     //center: [34.8951,98.0364],
                     center: [-98.0364,34.8951],
                     zoom: 4
@@ -45,7 +45,7 @@ function loadMap(){
     //     .attr("class", "land-boundary");
 
     var maxDate,minDate;
-    d3.json("fixtures/walmart.json", function (error, collection) {
+    d3.json("fixtures/target.json", function (error, collection) {
             plotData = collection;
             console.log(minDate);
 
@@ -63,7 +63,7 @@ function loadMap(){
 var displayStores = function(data) {
     var stores = svg1.selectAll(".store")
             .data(data, function(d) {
-            return d.name;
+            return d.store_num;
             });
 
   stores.enter().append("circle")
@@ -117,7 +117,7 @@ d3.select('#slider')
   .call(
     chroniton()
     .width(sliderWidth)
-    .domain([new Date("1961"),new Date("2007")])
+    .domain([new Date("1961"),new Date("2009")])
       // hours and minutes - time format
       .labelFormat(d3.time.format('%Y'))
       .on('change', function(d) {

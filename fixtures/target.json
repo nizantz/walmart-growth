@@ -1,0 +1,10094 @@
+[
+	{
+		"opening_date": 1962,
+		"latitude": 45.031835,
+		"longitude": -93.360099,
+		"store_num": 1
+	},
+	{
+		"opening_date": 1962,
+		"latitude": 46.787965,
+		"longitude": -92.099849,
+		"store_num": 2
+	},
+	{
+		"opening_date": 1965,
+		"latitude": 44.820491,
+		"longitude": -93.306364,
+		"store_num": 3
+	},
+	{
+		"opening_date": 1969,
+		"latitude": 38.755296,
+		"longitude": -90.406752,
+		"store_num": 4
+	},
+	{
+		"opening_date": 1969,
+		"latitude": 32.778155,
+		"longitude": -96.795404,
+		"store_num": 5
+	},
+	{
+		"opening_date": 1969,
+		"latitude": 32.913865,
+		"longitude": -96.636554,
+		"store_num": 6
+	},
+	{
+		"opening_date": 1969,
+		"latitude": 38.83311,
+		"longitude": -104.821729,
+		"store_num": 7
+	},
+	{
+		"opening_date": 1970,
+		"latitude": 36.14975,
+		"longitude": -95.993354,
+		"store_num": 8
+	},
+	{
+		"opening_date": 1970,
+		"latitude": 29.76045,
+		"longitude": -95.369784,
+		"store_num": 9
+	},
+	{
+		"opening_date": 1970,
+		"latitude": 42.966011,
+		"longitude": -88.005049,
+		"store_num": 10
+	},
+	{
+		"opening_date": 1970,
+		"latitude": 43.06076,
+		"longitude": -88.008394,
+		"store_num": 11
+	},
+	{
+		"opening_date": 1971,
+		"latitude": 38.592985,
+		"longitude": -90.538789,
+		"store_num": 12
+	},
+	{
+		"opening_date": 1972,
+		"latitude": 39.74001,
+		"longitude": -104.992259,
+		"store_num": 13
+	},
+	{
+		"opening_date": 1972,
+		"latitude": 35.472005,
+		"longitude": -97.520334,
+		"store_num": 14
+	},
+	{
+		"opening_date": 1972,
+		"latitude": 35.472005,
+		"longitude": -97.520334,
+		"store_num": 15
+	},
+	{
+		"opening_date": 1976,
+		"latitude": 44.979035,
+		"longitude": -93.264929,
+		"store_num": 16
+	},
+	{
+		"opening_date": 1976,
+		"latitude": 39.802005,
+		"longitude": -105.087829,
+		"store_num": 17
+	},
+	{
+		"opening_date": 1977,
+		"latitude": 32.778155,
+		"longitude": -96.795404,
+		"store_num": 18
+	},
+	{
+		"opening_date": 1977,
+		"latitude": 43.04181,
+		"longitude": -87.906844,
+		"store_num": 19
+	},
+	{
+		"opening_date": 1978,
+		"latitude": 46.87591,
+		"longitude": -96.781764,
+		"store_num": 20
+	},
+	{
+		"opening_date": 1978,
+		"latitude": 40.01574,
+		"longitude": -105.279239,
+		"store_num": 21
+	},
+	{
+		"opening_date": 1978,
+		"latitude": 33.020785,
+		"longitude": -96.699214,
+		"store_num": 22
+	},
+	{
+		"opening_date": 1978,
+		"latitude": 44.943829,
+		"longitude": -93.093326,
+		"store_num": 23
+	},
+	{
+		"opening_date": 1978,
+		"latitude": 41.567656,
+		"longitude": -93.757552,
+		"store_num": 24
+	},
+	{
+		"opening_date": 1979,
+		"latitude": 29.76045,
+		"longitude": -95.369784,
+		"store_num": 25
+	},
+	{
+		"opening_date": 1979,
+		"latitude": 43.54535,
+		"longitude": -96.731284,
+		"store_num": 26
+	},
+	{
+		"opening_date": 1979,
+		"latitude": 38.89086,
+		"longitude": -90.183834,
+		"store_num": 27
+	},
+	{
+		"opening_date": 1979,
+		"latitude": 40.581505,
+		"longitude": -105.076264,
+		"store_num": 28
+	},
+	{
+		"opening_date": 1979,
+		"latitude": 43.014374,
+		"longitude": -88.235467,
+		"store_num": 29
+	},
+	{
+		"opening_date": 1980,
+		"latitude": 33.90831,
+		"longitude": -98.500994,
+		"store_num": 30
+	},
+	{
+		"opening_date": 1980,
+		"latitude": 33.59233,
+		"longitude": -101.855869,
+		"store_num": 31
+	},
+	{
+		"opening_date": 1980,
+		"latitude": 48.236115,
+		"longitude": -101.296074,
+		"store_num": 32
+	},
+	{
+		"opening_date": 1980,
+		"latitude": 42.49913,
+		"longitude": -90.663269,
+		"store_num": 33
+	},
+	{
+		"opening_date": 1980,
+		"latitude": 32.975555,
+		"longitude": -96.890229,
+		"store_num": 34
+	},
+	{
+		"opening_date": 1980,
+		"latitude": 37.68698,
+		"longitude": -97.335579,
+		"store_num": 35
+	},
+	{
+		"opening_date": 1980,
+		"latitude": 35.149657,
+		"longitude": -90.048913,
+		"store_num": 36
+	},
+	{
+		"opening_date": 1980,
+		"latitude": 40.102165,
+		"longitude": -85.678689,
+		"store_num": 37
+	},
+	{
+		"opening_date": 1980,
+		"latitude": 37.976911,
+		"longitude": -87.564125,
+		"store_num": 38
+	},
+	{
+		"opening_date": 1980,
+		"latitude": 40.486495,
+		"longitude": -86.126439,
+		"store_num": 39
+	},
+	{
+		"opening_date": 1980,
+		"latitude": 38.25486,
+		"longitude": -85.766404,
+		"store_num": 40
+	},
+	{
+		"opening_date": 1980,
+		"latitude": 38.25486,
+		"longitude": -85.766404,
+		"store_num": 41
+	},
+	{
+		"opening_date": 1980,
+		"latitude": 38.285518,
+		"longitude": -85.82463,
+		"store_num": 42
+	},
+	{
+		"opening_date": 1980,
+		"latitude": 39.06879,
+		"longitude": -108.564454,
+		"store_num": 43
+	},
+	{
+		"opening_date": 1980,
+		"latitude": 30.267605,
+		"longitude": -97.742984,
+		"store_num": 44
+	},
+	{
+		"opening_date": 1980,
+		"latitude": 30.267605,
+		"longitude": -97.742984,
+		"store_num": 45
+	},
+	{
+		"opening_date": 1981,
+		"latitude": 36.263899,
+		"longitude": -86.708653,
+		"store_num": 46
+	},
+	{
+		"opening_date": 1981,
+		"latitude": 35.83062,
+		"longitude": -85.978554,
+		"store_num": 47
+	},
+	{
+		"opening_date": 1981,
+		"latitude": 44.939448,
+		"longitude": -93.467869,
+		"store_num": 48
+	},
+	{
+		"opening_date": 1981,
+		"latitude": 39.654365,
+		"longitude": -104.993564,
+		"store_num": 49
+	},
+	{
+		"opening_date": 1981,
+		"latitude": 36.167762,
+		"longitude": -86.778366,
+		"store_num": 50
+	},
+	{
+		"opening_date": 1981,
+		"latitude": 35.960495,
+		"longitude": -83.920914,
+		"store_num": 51
+	},
+	{
+		"opening_date": 1981,
+		"latitude": 42.725218,
+		"longitude": -87.790395,
+		"store_num": 52
+	},
+	{
+		"opening_date": 1981,
+		"latitude": 38.83311,
+		"longitude": -104.821729,
+		"store_num": 53
+	},
+	{
+		"opening_date": 1982,
+		"latitude": 30.08615,
+		"longitude": -94.101584,
+		"store_num": 54
+	},
+	{
+		"opening_date": 1982,
+		"latitude": 34.75605,
+		"longitude": -92.267119,
+		"store_num": 55
+	},
+	{
+		"opening_date": 1982,
+		"latitude": 40.510823,
+		"longitude": -88.994139,
+		"store_num": 56
+	},
+	{
+		"opening_date": 1982,
+		"latitude": 42.850095,
+		"longitude": -106.327734,
+		"store_num": 57
+	},
+	{
+		"opening_date": 1982,
+		"latitude": 45.783975,
+		"longitude": -108.505794,
+		"store_num": 58
+	},
+	{
+		"opening_date": 1982,
+		"latitude": 31.312685,
+		"longitude": -92.445649,
+		"store_num": 59
+	},
+	{
+		"opening_date": 1983,
+		"latitude": 29.42449,
+		"longitude": -98.494624,
+		"store_num": 60
+	},
+	{
+		"opening_date": 1983,
+		"latitude": 32.715685,
+		"longitude": -117.161724,
+		"store_num": 61
+	},
+	{
+		"opening_date": 1983,
+		"latitude": 32.640565,
+		"longitude": -117.084154,
+		"store_num": 62
+	},
+	{
+		"opening_date": 1983,
+		"latitude": 32.640565,
+		"longitude": -117.084154,
+		"store_num": 63
+	},
+	{
+		"opening_date": 1983,
+		"latitude": 32.715685,
+		"longitude": -117.161724,
+		"store_num": 64
+	},
+	{
+		"opening_date": 1983,
+		"latitude": 34.20034,
+		"longitude": -119.180439,
+		"store_num": 65
+	},
+	{
+		"opening_date": 1983,
+		"latitude": 34.26089,
+		"longitude": -118.429249,
+		"store_num": 66
+	},
+	{
+		"opening_date": 1983,
+		"latitude": 34.0937,
+		"longitude": -118.127269,
+		"store_num": 67
+	},
+	{
+		"opening_date": 1983,
+		"latitude": 34.105245,
+		"longitude": -117.294124,
+		"store_num": 68
+	},
+	{
+		"opening_date": 1983,
+		"latitude": 34.05329,
+		"longitude": -118.245009,
+		"store_num": 69
+	},
+	{
+		"opening_date": 1983,
+		"latitude": 33.956305,
+		"longitude": -118.205774,
+		"store_num": 70
+	},
+	{
+		"opening_date": 1983,
+		"latitude": 33.77607,
+		"longitude": -117.936794,
+		"store_num": 71
+	},
+	{
+		"opening_date": 1983,
+		"latitude": 33.77607,
+		"longitude": -117.936794,
+		"store_num": 72
+	},
+	{
+		"opening_date": 1983,
+		"latitude": 33.766425,
+		"longitude": -118.192394,
+		"store_num": 73
+	},
+	{
+		"opening_date": 1983,
+		"latitude": 33.887157,
+		"longitude": -118.410843,
+		"store_num": 74
+	},
+	{
+		"opening_date": 1983,
+		"latitude": 33.836662,
+		"longitude": -118.341662,
+		"store_num": 75
+	},
+	{
+		"opening_date": 1983,
+		"latitude": 32.221553,
+		"longitude": -110.969754,
+		"store_num": 76
+	},
+	{
+		"opening_date": 1983,
+		"latitude": 32.221553,
+		"longitude": -110.969754,
+		"store_num": 77
+	},
+	{
+		"opening_date": 1983,
+		"latitude": 33.98163,
+		"longitude": -117.373879,
+		"store_num": 78
+	},
+	{
+		"opening_date": 1984,
+		"latitude": 40.81361,
+		"longitude": -96.707729,
+		"store_num": 79
+	},
+	{
+		"opening_date": 1984,
+		"latitude": 34.02161,
+		"longitude": -118.396209,
+		"store_num": 80
+	},
+	{
+		"opening_date": 1984,
+		"latitude": 44.858665,
+		"longitude": -93.460134,
+		"store_num": 81
+	},
+	{
+		"opening_date": 1984,
+		"latitude": 33.988445,
+		"longitude": -117.904794,
+		"store_num": 82
+	},
+	{
+		"opening_date": 1984,
+		"latitude": 43.04181,
+		"longitude": -87.906844,
+		"store_num": 83
+	},
+	{
+		"opening_date": 1985,
+		"latitude": 32.449175,
+		"longitude": -99.741424,
+		"store_num": 84
+	},
+	{
+		"opening_date": 1985,
+		"latitude": 35.207255,
+		"longitude": -101.833894,
+		"store_num": 85
+	},
+	{
+		"opening_date": 1985,
+		"latitude": 41.134815,
+		"longitude": -104.821544,
+		"store_num": 86
+	},
+	{
+		"opening_date": 1985,
+		"latitude": 45.565864,
+		"longitude": -94.197519,
+		"store_num": 87
+	},
+	{
+		"opening_date": 1985,
+		"latitude": 34.113325,
+		"longitude": -117.765074,
+		"store_num": 88
+	},
+	{
+		"opening_date": 1985,
+		"latitude": 33.945954,
+		"longitude": -118.082481,
+		"store_num": 89
+	},
+	{
+		"opening_date": 1985,
+		"latitude": 34.199436,
+		"longitude": -118.630465,
+		"store_num": 90
+	},
+	{
+		"opening_date": 1985,
+		"latitude": 33.824345,
+		"longitude": -118.037489,
+		"store_num": 91
+	},
+	{
+		"opening_date": 1985,
+		"latitude": 33.787865,
+		"longitude": -117.850399,
+		"store_num": 92
+	},
+	{
+		"opening_date": 1985,
+		"latitude": 33.44826,
+		"longitude": -112.075774,
+		"store_num": 93
+	},
+	{
+		"opening_date": 1986,
+		"latitude": 32.783038,
+		"longitude": -96.601661,
+		"store_num": 94
+	},
+	{
+		"opening_date": 1986,
+		"latitude": 44.26178,
+		"longitude": -88.416564,
+		"store_num": 95
+	},
+	{
+		"opening_date": 1986,
+		"latitude": 38.952174,
+		"longitude": -92.334157,
+		"store_num": 96
+	},
+	{
+		"opening_date": 1986,
+		"latitude": 45.068688,
+		"longitude": -93.308514,
+		"store_num": 97
+	},
+	{
+		"opening_date": 1986,
+		"latitude": 41.239513,
+		"longitude": -95.8790599,
+		"store_num": 98
+	},
+	{
+		"opening_date": 1986,
+		"latitude": 34.698905,
+		"longitude": -118.144779,
+		"store_num": 99
+	},
+	{
+		"opening_date": 1986,
+		"latitude": 33.759305,
+		"longitude": -117.986499,
+		"store_num": 100
+	},
+	{
+		"opening_date": 1986,
+		"latitude": 33.748136,
+		"longitude": -117.874491,
+		"store_num": 101
+	},
+	{
+		"opening_date": 1986,
+		"latitude": 33.417045,
+		"longitude": -111.831459,
+		"store_num": 102
+	},
+	{
+		"opening_date": 1986,
+		"latitude": 33.30288,
+		"longitude": -111.840839,
+		"store_num": 103
+	},
+	{
+		"opening_date": 1986,
+		"latitude": 47.506453,
+		"longitude": -111.306019,
+		"store_num": 104
+	},
+	{
+		"opening_date": 1986,
+		"latitude": 31.4615,
+		"longitude": -100.442424,
+		"store_num": 105
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 34.28946,
+		"longitude": -118.717659,
+		"store_num": 106
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 32.813516,
+		"longitude": -96.955506,
+		"store_num": 107
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 39.708709,
+		"longitude": -104.812649,
+		"store_num": 108
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 34.403655,
+		"longitude": -118.552477,
+		"store_num": 109
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 34.012811,
+		"longitude": -117.689328,
+		"store_num": 110
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 33.567372,
+		"longitude": -117.727804,
+		"store_num": 111
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 44.94848,
+		"longitude": -93.343394,
+		"store_num": 112
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 36.171915,
+		"longitude": -115.139974,
+		"store_num": 113
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 36.171915,
+		"longitude": -115.139974,
+		"store_num": 114
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 36.171915,
+		"longitude": -115.139974,
+		"store_num": 115
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 34.510622,
+		"longitude": -117.32364,
+		"store_num": 116
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 33.870325,
+		"longitude": -117.929104,
+		"store_num": 117
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 34.16545,
+		"longitude": -118.378979,
+		"store_num": 118
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 34.105245,
+		"longitude": -117.294124,
+		"store_num": 119
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 34.28084,
+		"longitude": -119.292324,
+		"store_num": 120
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 34.234773,
+		"longitude": -118.533879,
+		"store_num": 121
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 33.61941,
+		"longitude": -117.677638,
+		"store_num": 122
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 32.715685,
+		"longitude": -117.161724,
+		"store_num": 123
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 33.781015,
+		"longitude": -116.464079,
+		"store_num": 124
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 34.95313,
+		"longitude": -120.434994,
+		"store_num": 125
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 33.748136,
+		"longitude": -117.874491,
+		"store_num": 126
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 33.868545,
+		"longitude": -118.063704,
+		"store_num": 127
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 33.883759,
+		"longitude": -118.307503,
+		"store_num": 128
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 33.98163,
+		"longitude": -117.373879,
+		"store_num": 129
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 34.139594,
+		"longitude": -117.971494,
+		"store_num": 130
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 33.19715,
+		"longitude": -117.380584,
+		"store_num": 131
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 32.79495,
+		"longitude": -116.959469,
+		"store_num": 132
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 33.425505,
+		"longitude": -111.938299,
+		"store_num": 133
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 38.574484,
+		"longitude": -121.30326,
+		"store_num": 134
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 37.6383,
+		"longitude": -120.999589,
+		"store_num": 135
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 33.12316,
+		"longitude": -117.082169,
+		"store_num": 136
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 36.740615,
+		"longitude": -119.785679,
+		"store_num": 137
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 42.68326,
+		"longitude": -83.034394,
+		"store_num": 138
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 42.32209,
+		"longitude": -83.176239,
+		"store_num": 139
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 42.226585,
+		"longitude": -83.263344,
+		"store_num": 140
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 42.310054,
+		"longitude": -83.378883,
+		"store_num": 141
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 42.669843,
+		"longitude": -83.389331,
+		"store_num": 142
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 38.57906,
+		"longitude": -121.490999,
+		"store_num": 143
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 38.57906,
+		"longitude": -121.490999,
+		"store_num": 144
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 38.57906,
+		"longitude": -121.490999,
+		"store_num": 145
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 37.95362,
+		"longitude": -121.290719,
+		"store_num": 146
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 36.740615,
+		"longitude": -119.785679,
+		"store_num": 147
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 35.366975,
+		"longitude": -119.018844,
+		"store_num": 148
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 39.73201,
+		"longitude": -121.841985,
+		"store_num": 149
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 39.14076,
+		"longitude": -121.619399,
+		"store_num": 150
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 34.168807,
+		"longitude": -118.610921,
+		"store_num": 151
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 37.677659,
+		"longitude": -122.459468,
+		"store_num": 152
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 37.484175,
+		"longitude": -122.227102,
+		"store_num": 153
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 37.31884,
+		"longitude": -122.029244,
+		"store_num": 154
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 37.338475,
+		"longitude": -121.885794,
+		"store_num": 155
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 37.703893,
+		"longitude": -121.916698,
+		"store_num": 156
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 37.947955,
+		"longitude": -122.063379,
+		"store_num": 157
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 38.10084,
+		"longitude": -122.254919,
+		"store_num": 158
+	},
+	{
+		"opening_date": 1987,
+		"latitude": 37.389475,
+		"longitude": -122.081694,
+		"store_num": 159
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 38.748529,
+		"longitude": -121.284558,
+		"store_num": 160
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 39.54159,
+		"longitude": -104.951446,
+		"store_num": 161
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 32.95459,
+		"longitude": -117.041984,
+		"store_num": 162
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 38.01905,
+		"longitude": -121.888669,
+		"store_num": 163
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 33.686887,
+		"longitude": -117.825348,
+		"store_num": 164
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 47.976575,
+		"longitude": -122.206419,
+		"store_num": 165
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 47.82532,
+		"longitude": -122.292409,
+		"store_num": 166
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 47.255165,
+		"longitude": -122.441654,
+		"store_num": 167
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 47.190425,
+		"longitude": -122.295704,
+		"store_num": 168
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 45.632215,
+		"longitude": -122.671544,
+		"store_num": 169
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 45.484895,
+		"longitude": -122.796153,
+		"store_num": 170
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 45.425788,
+		"longitude": -122.765754,
+		"store_num": 171
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 45.412115,
+		"longitude": -122.569089,
+		"store_num": 172
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 47.61002,
+		"longitude": -122.187549,
+		"store_num": 173
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 43.419181,
+		"longitude": -83.946673,
+		"store_num": 174
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 48.75235,
+		"longitude": -122.471219,
+		"store_num": 175
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 43.010745,
+		"longitude": -83.686019,
+		"store_num": 176
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 42.33056,
+		"longitude": -83.277479,
+		"store_num": 177
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 35.08418,
+		"longitude": -106.648639,
+		"store_num": 178
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 35.08418,
+		"longitude": -106.648639,
+		"store_num": 179
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 36.823968,
+		"longitude": -119.696589,
+		"store_num": 180
+	},
+	{
+		"opening_date": 1988,
+		"latitude": 42.52,
+		"longitude": -83.109413,
+		"store_num": 181
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 42.29884,
+		"longitude": -83.486759,
+		"store_num": 182
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 39.056735,
+		"longitude": -95.677484,
+		"store_num": 183
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 33.502486,
+		"longitude": -117.166931,
+		"store_num": 184
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 44.81808,
+		"longitude": -93.167134,
+		"store_num": 185
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 45.522675,
+		"longitude": -122.990499,
+		"store_num": 186
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 33.49401,
+		"longitude": -111.921409,
+		"store_num": 187
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 44.92061,
+		"longitude": -89.612847,
+		"store_num": 188
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 42.7151,
+		"longitude": -84.430259,
+		"store_num": 189
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 38.048595,
+		"longitude": -84.500319,
+		"store_num": 190
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 33.88452,
+		"longitude": -84.515444,
+		"store_num": 191
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 35.26217,
+		"longitude": -81.186384,
+		"store_num": 192
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 47.161771,
+		"longitude": -122.514402,
+		"store_num": 193
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 42.664819,
+		"longitude": -83.160492,
+		"store_num": 194
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 42.73202,
+		"longitude": -84.552279,
+		"store_num": 195
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 43.006549,
+		"longitude": -85.77446,
+		"store_num": 196
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 42.90444,
+		"longitude": -85.785669,
+		"store_num": 197
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 42.201535,
+		"longitude": -85.589374,
+		"store_num": 198
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 42.593309,
+		"longitude": -83.01337,
+		"store_num": 199
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 47.65158,
+		"longitude": -122.692899,
+		"store_num": 200
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 47.039225,
+		"longitude": -122.891429,
+		"store_num": 201
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 44.93323,
+		"longitude": -123.043854,
+		"store_num": 202
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 44.63548,
+		"longitude": -123.107764,
+		"store_num": 203
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 27.79635,
+		"longitude": -97.403564,
+		"store_num": 204
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 42.31617,
+		"longitude": -85.180224,
+		"store_num": 205
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 42.484561,
+		"longitude": -83.363399,
+		"store_num": 206
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 44.04748,
+		"longitude": -123.019554,
+		"store_num": 207
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 42.32787799,
+		"longitude": -122.86829,
+		"store_num": 208
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 35.366975,
+		"longitude": -119.018844,
+		"store_num": 209
+	},
+	{
+		"opening_date": 1989,
+		"latitude": 40.587523,
+		"longitude": -122.39291,
+		"store_num": 210
+	},
+	{
+		"opening_date": 1990,
+		"latitude": 42.73202,
+		"longitude": -84.552279,
+		"store_num": 211
+	},
+	{
+		"opening_date": 1990,
+		"latitude": 43.60698,
+		"longitude": -116.193409,
+		"store_num": 212
+	},
+	{
+		"opening_date": 1990,
+		"latitude": 38.26386,
+		"longitude": -104.612374,
+		"store_num": 213
+	},
+	{
+		"opening_date": 1990,
+		"latitude": 43.884335,
+		"longitude": -91.221309,
+		"store_num": 214
+	},
+	{
+		"opening_date": 1990,
+		"latitude": 41.65381,
+		"longitude": -83.536259,
+		"store_num": 215
+	},
+	{
+		"opening_date": 1990,
+		"latitude": 41.618668,
+		"longitude": -83.709798,
+		"store_num": 216
+	},
+	{
+		"opening_date": 1990,
+		"latitude": 35.08418,
+		"longitude": -106.648639,
+		"store_num": 217
+	},
+	{
+		"opening_date": 1990,
+		"latitude": 34.102617,
+		"longitude": -117.573839,
+		"store_num": 218
+	},
+	{
+		"opening_date": 1990,
+		"latitude": 41.65381,
+		"longitude": -83.536259,
+		"store_num": 219
+	},
+	{
+		"opening_date": 1990,
+		"latitude": 37.338475,
+		"longitude": -121.885794,
+		"store_num": 220
+	},
+	{
+		"opening_date": 1990,
+		"latitude": 47.462201,
+		"longitude": -122.254239,
+		"store_num": 221
+	},
+	{
+		"opening_date": 1990,
+		"latitude": 46.144283,
+		"longitude": -122.898659,
+		"store_num": 222
+	},
+	{
+		"opening_date": 1990,
+		"latitude": 43.010745,
+		"longitude": -83.686019,
+		"store_num": 223
+	},
+	{
+		"opening_date": 1990,
+		"latitude": 42.511115,
+		"longitude": -83.028519,
+		"store_num": 224
+	},
+	{
+		"opening_date": 1990,
+		"latitude": 44.74275,
+		"longitude": -93.217579,
+		"store_num": 225
+	},
+	{
+		"opening_date": 1990,
+		"latitude": 43.59527,
+		"longitude": -83.884914,
+		"store_num": 226
+	},
+	{
+		"opening_date": 1990,
+		"latitude": 43.03875,
+		"longitude": -82.486462,
+		"store_num": 227
+	},
+	{
+		"opening_date": 1990,
+		"latitude": 42.281875,
+		"longitude": -83.748479,
+		"store_num": 228
+	},
+	{
+		"opening_date": 1990,
+		"latitude": 39.76691,
+		"longitude": -86.149964,
+		"store_num": 229
+	},
+	{
+		"opening_date": 1990,
+		"latitude": 47.65726,
+		"longitude": -117.412279,
+		"store_num": 230
+	},
+	{
+		"opening_date": 1990,
+		"latitude": 47.60358,
+		"longitude": -122.329454,
+		"store_num": 231
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 26.35049,
+		"longitude": -80.089004,
+		"store_num": 232
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 26.464365,
+		"longitude": -80.074184,
+		"store_num": 233
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 28.53774,
+		"longitude": -81.377389,
+		"store_num": 234
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 28.53774,
+		"longitude": -81.377389,
+		"store_num": 235
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 28.28169,
+		"longitude": -82.716659,
+		"store_num": 236
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 28.07894,
+		"longitude": -82.741329,
+		"store_num": 237
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 27.916045,
+		"longitude": -82.791469,
+		"store_num": 238
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 27.94653,
+		"longitude": -82.459269,
+		"store_num": 239
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 27.94653,
+		"longitude": -82.459269,
+		"store_num": 240
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 46.875045,
+		"longitude": -96.771664,
+		"store_num": 241
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 46.35586,
+		"longitude": -94.244234,
+		"store_num": 242
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 45.120643,
+		"longitude": -95.054495,
+		"store_num": 243
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 44.83366,
+		"longitude": -92.953224,
+		"store_num": 244
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 44.167597,
+		"longitude": -94.002889,
+		"store_num": 245
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 27.33888,
+		"longitude": -82.539629,
+		"store_num": 246
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 45.081135,
+		"longitude": -93.135094,
+		"store_num": 247
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 28.665911,
+		"longitude": -81.359756,
+		"store_num": 248
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 47.473145,
+		"longitude": -94.879649,
+		"store_num": 249
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 45.018541,
+		"longitude": -93.475052,
+		"store_num": 250
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 40.1049,
+		"longitude": -83.133119,
+		"store_num": 251
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 39.962,
+		"longitude": -83.003014,
+		"store_num": 252
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 39.962,
+		"longitude": -83.003014,
+		"store_num": 253
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 30.33138,
+		"longitude": -81.655799,
+		"store_num": 254
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 39.801055,
+		"longitude": -89.643604,
+		"store_num": 255
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 44.759995,
+		"longitude": -85.615839,
+		"store_num": 256
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 43.61708,
+		"longitude": -84.245059,
+		"store_num": 257
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 42.244765,
+		"longitude": -84.400524,
+		"store_num": 258
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 37.73082,
+		"longitude": -88.930049,
+		"store_num": 259
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 38.2492,
+		"longitude": -122.043884,
+		"store_num": 260
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 36.670845,
+		"longitude": -121.654834,
+		"store_num": 261
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 47.671866,
+		"longitude": -116.776166,
+		"store_num": 262
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 36.03082,
+		"longitude": -114.981094,
+		"store_num": 263
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 35.096515,
+		"longitude": -89.807119,
+		"store_num": 264
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 30.157499,
+		"longitude": -95.455772,
+		"store_num": 265
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 34.578485,
+		"longitude": -118.116454,
+		"store_num": 266
+	},
+	{
+		"opening_date": 1991,
+		"latitude": 30.33138,
+		"longitude": -81.655799,
+		"store_num": 267
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 34.10205,
+		"longitude": -117.435759,
+		"store_num": 268
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 30.420845,
+		"longitude": -87.217239,
+		"store_num": 269
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 29.65195,
+		"longitude": -82.323184,
+		"store_num": 270
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 29.203575,
+		"longitude": -81.039404,
+		"store_num": 271
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 26.98288,
+		"longitude": -82.100834,
+		"store_num": 272
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 28.811105,
+		"longitude": -81.877284,
+		"store_num": 273
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 38.09214699,
+		"longitude": -122.559277,
+		"store_num": 274
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 45.10889,
+		"longitude": -93.348574,
+		"store_num": 275
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 44.919876,
+		"longitude": -92.940617,
+		"store_num": 276
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 35.92425,
+		"longitude": -86.870934,
+		"store_num": 277
+	},
+	{
+		"opening_date": 1992,
+		"latitude": -37.84134499,
+		"longitude": 144.977417,
+		"store_num": 278
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 48.475545,
+		"longitude": -122.331534,
+		"store_num": 279
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 42.5562,
+		"longitude": -114.469609,
+		"store_num": 280
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 30.620545,
+		"longitude": -96.325904,
+		"store_num": 281
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 26.18986,
+		"longitude": -97.695549,
+		"store_num": 282
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 41.589785,
+		"longitude": -93.615674,
+		"store_num": 283
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 43.14665,
+		"longitude": -93.201039,
+		"store_num": 284
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 44.666681,
+		"longitude": -90.173835,
+		"store_num": 285
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 44.523905,
+		"longitude": -89.574789,
+		"store_num": 286
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 44.02491,
+		"longitude": -88.544434,
+		"store_num": 287
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 43.773025,
+		"longitude": -88.447094,
+		"store_num": 288
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 42.687892,
+		"longitude": -89.018214,
+		"store_num": 289
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 42.2669,
+		"longitude": -89.078354,
+		"store_num": 290
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 30.15987,
+		"longitude": -85.660334,
+		"store_num": 291
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 27.94017,
+		"longitude": -82.325474,
+		"store_num": 292
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 27.099445,
+		"longitude": -82.450009,
+		"store_num": 293
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 26.168707,
+		"longitude": -80.294942,
+		"store_num": 294
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 45.17309,
+		"longitude": -93.304403,
+		"store_num": 295
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 45.889393,
+		"longitude": -95.366344,
+		"store_num": 296
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 37.30127,
+		"longitude": -120.486199,
+		"store_num": 297
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 33.83276,
+		"longitude": -117.915719,
+		"store_num": 298
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 27.53092,
+		"longitude": -99.502009,
+		"store_num": 299
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 27.20019,
+		"longitude": -80.255579,
+		"store_num": 300
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 27.4955,
+		"longitude": -82.578074,
+		"store_num": 301
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 31.759165,
+		"longitude": -106.487494,
+		"store_num": 302
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 31.759165,
+		"longitude": -106.487494,
+		"store_num": 303
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 26.20742,
+		"longitude": -98.229364,
+		"store_num": 304
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 33.577314,
+		"longitude": -112.240909,
+		"store_num": 305
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 36.171915,
+		"longitude": -115.139974,
+		"store_num": 306
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 38.35134,
+		"longitude": -121.993394,
+		"store_num": 307
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 28.29443,
+		"longitude": -81.406744,
+		"store_num": 308
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 46.20804,
+		"longitude": -119.116984,
+		"store_num": 309
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 41.8618,
+		"longitude": -103.662759,
+		"store_num": 310
+	},
+	{
+		"opening_date": 1992,
+		"latitude": 33.39482,
+		"longitude": -104.52275,
+		"store_num": 311
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 42.22225,
+		"longitude": -87.970871,
+		"store_num": 312
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 42.039565,
+		"longitude": -88.283244,
+		"store_num": 313
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 42.025303,
+		"longitude": -88.06771,
+		"store_num": 314
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 41.917725,
+		"longitude": -88.075679,
+		"store_num": 315
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 41.896205,
+		"longitude": -87.864114,
+		"store_num": 316
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 41.86606,
+		"longitude": -88.110629,
+		"store_num": 317
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 41.849995,
+		"longitude": -88.309329,
+		"store_num": 318
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 41.770535,
+		"longitude": -88.153019,
+		"store_num": 319
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 41.88415,
+		"longitude": -87.632409,
+		"store_num": 320
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 41.617285,
+		"longitude": -87.853469,
+		"store_num": 321
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 41.77196,
+		"longitude": -87.855064,
+		"store_num": 322
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 42.065343,
+		"longitude": -83.944762,
+		"store_num": 323
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 37.675245,
+		"longitude": -121.757829,
+		"store_num": 324
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 28.756405,
+		"longitude": -81.323094,
+		"store_num": 325
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 41.615525,
+		"longitude": -87.531089,
+		"store_num": 326
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 47.522745,
+		"longitude": -92.532974,
+		"store_num": 327
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 45.45909,
+		"longitude": -98.487324,
+		"store_num": 328
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 36.171915,
+		"longitude": -115.139974,
+		"store_num": 329
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 33.44826,
+		"longitude": -112.075774,
+		"store_num": 330
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 38.343688,
+		"longitude": -122.712119,
+		"store_num": 331
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 33.417045,
+		"longitude": -111.831459,
+		"store_num": 332
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 47.380285,
+		"longitude": -122.237419,
+		"store_num": 333
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 26.640845,
+		"longitude": -81.868194,
+		"store_num": 334
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 30.439775,
+		"longitude": -84.280649,
+		"store_num": 335
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 31.759165,
+		"longitude": -106.487494,
+		"store_num": 336
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 32.221553,
+		"longitude": -110.969754,
+		"store_num": 337
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 32.221553,
+		"longitude": -110.969754,
+		"store_num": 338
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 29.76045,
+		"longitude": -95.369784,
+		"store_num": 339
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 44.900588,
+		"longitude": -97.105744,
+		"store_num": 340
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 40.826045,
+		"longitude": -91.157179,
+		"store_num": 341
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 45.172585,
+		"longitude": -93.876234,
+		"store_num": 342
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 44.863205,
+		"longitude": -93.537914,
+		"store_num": 343
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 43.057638,
+		"longitude": -88.404258,
+		"store_num": 344
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 42.364345,
+		"longitude": -87.914414,
+		"store_num": 345
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 41.750895,
+		"longitude": -88.028039,
+		"store_num": 346
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 41.698175,
+		"longitude": -88.081199,
+		"store_num": 347
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 41.64076,
+		"longitude": -87.737844,
+		"store_num": 348
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 41.485607,
+		"longitude": -87.338353,
+		"store_num": 349
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 40.69214,
+		"longitude": -89.587764,
+		"store_num": 350
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 42.39658,
+		"longitude": -83.369574,
+		"store_num": 351
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 29.187525,
+		"longitude": -82.140379,
+		"store_num": 352
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 28.948753,
+		"longitude": -81.297004,
+		"store_num": 353
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 32.778155,
+		"longitude": -96.795404,
+		"store_num": 354
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 32.939435,
+		"longitude": -97.078389,
+		"store_num": 355
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 26.010403,
+		"longitude": -80.160084,
+		"store_num": 356
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 42.50157,
+		"longitude": -94.177624,
+		"store_num": 357
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 40.81361,
+		"longitude": -96.707729,
+		"store_num": 358
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 39.76691,
+		"longitude": -86.149964,
+		"store_num": 359
+	},
+	{
+		"opening_date": 1993,
+		"latitude": 29.034374,
+		"longitude": -95.446312,
+		"store_num": 360
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 38.130155,
+		"longitude": -121.275969,
+		"store_num": 361
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 40.70047,
+		"longitude": -99.083689,
+		"store_num": 362
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 43.17231,
+		"longitude": -88.103757,
+		"store_num": 363
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 42.025303,
+		"longitude": -88.06771,
+		"store_num": 364
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 34.147235,
+		"longitude": -118.144264,
+		"store_num": 365
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 46.87278,
+		"longitude": -113.996234,
+		"store_num": 366
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 29.728405,
+		"longitude": -94.996952,
+		"store_num": 367
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 28.805965,
+		"longitude": -97.003574,
+		"store_num": 368
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 46.72131,
+		"longitude": -92.103949,
+		"store_num": 369
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 40.946915,
+		"longitude": -90.364659,
+		"store_num": 370
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 42.326215,
+		"longitude": -88.267314,
+		"store_num": 371
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 41.967265,
+		"longitude": -87.978819,
+		"store_num": 372
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 42.538473,
+		"longitude": -83.475547,
+		"store_num": 373
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 42.0327,
+		"longitude": -97.411064,
+		"store_num": 374
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 41.020125,
+		"longitude": -92.415739,
+		"store_num": 375
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 41.154265,
+		"longitude": -87.877864,
+		"store_num": 376
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 28.652518,
+		"longitude": -81.202832,
+		"store_num": 377
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 26.139094,
+		"longitude": -81.795793,
+		"store_num": 378
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 41.916065,
+		"longitude": -83.397899,
+		"store_num": 379
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 42.292435,
+		"longitude": -85.601114,
+		"store_num": 380
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 42.097585,
+		"longitude": -88.278584,
+		"store_num": 381
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 47.23592,
+		"longitude": -93.527534,
+		"store_num": 382
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 38.840545,
+		"longitude": -97.609704,
+		"store_num": 383
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 37.96918,
+		"longitude": -100.873184,
+		"store_num": 384
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 29.76045,
+		"longitude": -95.369784,
+		"store_num": 385
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 33.44826,
+		"longitude": -112.075774,
+		"store_num": 386
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 45.484895,
+		"longitude": -122.796153,
+		"store_num": 387
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 34.012811,
+		"longitude": -117.689328,
+		"store_num": 388
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 47.65726,
+		"longitude": -117.412279,
+		"store_num": 389
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 35.1982,
+		"longitude": -111.651304,
+		"store_num": 390
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 34.539005,
+		"longitude": -112.470199,
+		"store_num": 391
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 28.671124,
+		"longitude": -81.337135,
+		"store_num": 392
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 33.679062,
+		"longitude": -117.663677,
+		"store_num": 393
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 33.634317,
+		"longitude": -117.603406,
+		"store_num": 394
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 33.85675,
+		"longitude": -84.016664,
+		"store_num": 395
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 35.117985,
+		"longitude": -80.720489,
+		"store_num": 396
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 28.457203,
+		"longitude": -82.628384,
+		"store_num": 397
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 26.0081,
+		"longitude": -80.280854,
+		"store_num": 398
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 35.6139,
+		"longitude": -88.819399,
+		"store_num": 399
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 42.530745,
+		"longitude": -83.785114,
+		"store_num": 400
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 42.138495,
+		"longitude": -83.244798,
+		"store_num": 401
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 43.597144,
+		"longitude": -84.775288,
+		"store_num": 402
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 42.056655,
+		"longitude": -87.686589,
+		"store_num": 403
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 41.32762,
+		"longitude": -89.128504,
+		"store_num": 404
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 45.565864,
+		"longitude": -94.197519,
+		"store_num": 405
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 45.05486899,
+		"longitude": -92.8203579,
+		"store_num": 406
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 33.49401,
+		"longitude": -111.921409,
+		"store_num": 407
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 37.6383,
+		"longitude": -120.999589,
+		"store_num": 408
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 34.523211,
+		"longitude": -117.215742,
+		"store_num": 409
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 36.852535,
+		"longitude": -121.403259,
+		"store_num": 410
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 41.88415,
+		"longitude": -87.632409,
+		"store_num": 411
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 42.649818,
+		"longitude": -82.818161,
+		"store_num": 412
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 38.05726,
+		"longitude": -97.932674,
+		"store_num": 413
+	},
+	{
+		"opening_date": 1994,
+		"latitude": 32.778155,
+		"longitude": -96.795404,
+		"store_num": 414
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 41.260645,
+		"longitude": -95.940469,
+		"store_num": 415
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 41.838965,
+		"longitude": -90.191959,
+		"store_num": 416
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 33.728913,
+		"longitude": -116.380319,
+		"store_num": 417
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 29.42449,
+		"longitude": -98.494624,
+		"store_num": 418
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 37.776864,
+		"longitude": -121.967299,
+		"store_num": 419
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 33.44826,
+		"longitude": -112.075774,
+		"store_num": 420
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 39.919522,
+		"longitude": -105.069855,
+		"store_num": 421
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 31.34239,
+		"longitude": -94.718264,
+		"store_num": 422
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 29.76045,
+		"longitude": -95.369784,
+		"store_num": 423
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 41.88929,
+		"longitude": -87.979104,
+		"store_num": 424
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 36.994625,
+		"longitude": -86.445584,
+		"store_num": 425
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 36.530755,
+		"longitude": -87.359769,
+		"store_num": 426
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 35.78551,
+		"longitude": -78.642669,
+		"store_num": 427
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 35.78933,
+		"longitude": -78.781169,
+		"store_num": 428
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 35.948199,
+		"longitude": -77.795207,
+		"store_num": 429
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 33.69357,
+		"longitude": -78.882675,
+		"store_num": 430
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 41.55329,
+		"longitude": -87.448284,
+		"store_num": 431
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 41.524935,
+		"longitude": -88.084594,
+		"store_num": 432
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 41.929305,
+		"longitude": -88.749304,
+		"store_num": 433
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 41.491733,
+		"longitude": -90.489899,
+		"store_num": 434
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 40.1142,
+		"longitude": -88.243499,
+		"store_num": 435
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 36.728135,
+		"longitude": -108.206054,
+		"store_num": 436
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 30.28871,
+		"longitude": -81.391794,
+		"store_num": 437
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 25.728985,
+		"longitude": -80.237419,
+		"store_num": 438
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 34.07537,
+		"longitude": -84.294554,
+		"store_num": 439
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 34.023405,
+		"longitude": -84.616764,
+		"store_num": 440
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 41.39627,
+		"longitude": -81.537044,
+		"store_num": 441
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 41.14032,
+		"longitude": -81.864019,
+		"store_num": 442
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 41.296986,
+		"longitude": -81.869394,
+		"store_num": 443
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 41.168025,
+		"longitude": -81.440379,
+		"store_num": 444
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 40.035475,
+		"longitude": -82.432254,
+		"store_num": 445
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 39.713754,
+		"longitude": -82.603289,
+		"store_num": 446
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 39.509897,
+		"longitude": -84.403593,
+		"store_num": 447
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 37.302715,
+		"longitude": -89.544529,
+		"store_num": 448
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 29.76045,
+		"longitude": -95.369784,
+		"store_num": 449
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 47.67856,
+		"longitude": -122.130994,
+		"store_num": 450
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 47.530095,
+		"longitude": -122.033799,
+		"store_num": 451
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 32.766024,
+		"longitude": -117.023559,
+		"store_num": 452
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 38.973065,
+		"longitude": -95.236534,
+		"store_num": 453
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 41.84483,
+		"longitude": -87.747174,
+		"store_num": 454
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 31.58076,
+		"longitude": -84.155989,
+		"store_num": 455
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 33.922929,
+		"longitude": -117.560987,
+		"store_num": 456
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 38.004427,
+		"longitude": -122.291396,
+		"store_num": 457
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 37.73967,
+		"longitude": -121.426374,
+		"store_num": 458
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 38.83311,
+		"longitude": -104.821729,
+		"store_num": 459
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 30.416545,
+		"longitude": -86.653669,
+		"store_num": 460
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 33.952465,
+		"longitude": -83.987994,
+		"store_num": 461
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 34.003365,
+		"longitude": -84.144964,
+		"store_num": 462
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 30.834729,
+		"longitude": -83.280929,
+		"store_num": 463
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 38.577515,
+		"longitude": -92.177839,
+		"store_num": 464
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 32.29869,
+		"longitude": -90.180489,
+		"store_num": 465
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 35.054495,
+		"longitude": -78.877579,
+		"store_num": 466
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 36.320088,
+		"longitude": -82.345284,
+		"store_num": 467
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 32.74863,
+		"longitude": -97.329249,
+		"store_num": 468
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 33.74937,
+		"longitude": -116.967889,
+		"store_num": 469
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 35.2225,
+		"longitude": -80.837539,
+		"store_num": 470
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 25.899585,
+		"longitude": -97.495529,
+		"store_num": 471
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 37.091455,
+		"longitude": -94.513169,
+		"store_num": 472
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 33.44865,
+		"longitude": -84.454564,
+		"store_num": 473
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 42.024526,
+		"longitude": -87.801446,
+		"store_num": 474
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 38.437731,
+		"longitude": -122.712427,
+		"store_num": 475
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 35.385965,
+		"longitude": -77.996854,
+		"store_num": 476
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 35.409853,
+		"longitude": -80.842716,
+		"store_num": 477
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 34.165154,
+		"longitude": -84.795688,
+		"store_num": 478
+	},
+	{
+		"opening_date": 1995,
+		"latitude": 33.942634,
+		"longitude": -84.211316,
+		"store_num": 479
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 41.15695,
+		"longitude": -96.042939,
+		"store_num": 480
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 38.813377,
+		"longitude": -89.956795,
+		"store_num": 481
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 31.56945,
+		"longitude": -110.274679,
+		"store_num": 482
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 25.728985,
+		"longitude": -80.237419,
+		"store_num": 483
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 33.58335,
+		"longitude": -84.340534,
+		"store_num": 484
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 38.660595,
+		"longitude": -77.247875,
+		"store_num": 485
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 46.604135,
+		"longitude": -120.507049,
+		"store_num": 486
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 44.05766,
+		"longitude": -121.315584,
+		"store_num": 487
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 32.000105,
+		"longitude": -102.075694,
+		"store_num": 488
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 29.42449,
+		"longitude": -98.494624,
+		"store_num": 489
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 38.30089,
+		"longitude": -77.459144,
+		"store_num": 490
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 42.432665,
+		"longitude": -82.923624,
+		"store_num": 491
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 42.481755,
+		"longitude": -83.240929,
+		"store_num": 492
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 37.693675,
+		"longitude": -85.859124,
+		"store_num": 493
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 38.25486,
+		"longitude": -85.766404,
+		"store_num": 494
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 41.383715,
+		"longitude": -81.734649,
+		"store_num": 495
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 41.138411,
+		"longitude": -81.483727,
+		"store_num": 496
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 35.960495,
+		"longitude": -83.920914,
+		"store_num": 497
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 27.94653,
+		"longitude": -82.459269,
+		"store_num": 498
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 41.134339,
+		"longitude": -81.622978,
+		"store_num": 499
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 37.208975,
+		"longitude": -93.291564,
+		"store_num": 500
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 41.53826,
+		"longitude": -90.576404,
+		"store_num": 501
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 45.511795,
+		"longitude": -122.675629,
+		"store_num": 502
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 39.704395,
+		"longitude": -86.397759,
+		"store_num": 503
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 40.87555,
+		"longitude": -81.402059,
+		"store_num": 504
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 30.686395,
+		"longitude": -88.053239,
+		"store_num": 505
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 36.740615,
+		"longitude": -119.785679,
+		"store_num": 506
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 39.574485,
+		"longitude": -76.992559,
+		"store_num": 507
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 39.290555,
+		"longitude": -76.609604,
+		"store_num": 508
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 39.53894,
+		"longitude": -76.348479,
+		"store_num": 509
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 39.161785,
+		"longitude": -76.621845,
+		"store_num": 510
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 38.96097,
+		"longitude": -76.740474,
+		"store_num": 511
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 38.895561,
+		"longitude": -76.829399,
+		"store_num": 512
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 39.104915,
+		"longitude": -76.866639,
+		"store_num": 513
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 38.615702,
+		"longitude": -76.902461,
+		"store_num": 514
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 39.033075,
+		"longitude": -77.406568,
+		"store_num": 515
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 37.25443,
+		"longitude": -77.411084,
+		"store_num": 516
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 37.027795,
+		"longitude": -76.345119,
+		"store_num": 517
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 36.714299,
+		"longitude": -76.24785,
+		"store_num": 518
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 35.607195,
+		"longitude": -77.380224,
+		"store_num": 519
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 27.771185,
+		"longitude": -82.639319,
+		"store_num": 520
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 38.40901,
+		"longitude": -121.365619,
+		"store_num": 521
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 38.298855,
+		"longitude": -122.285194,
+		"store_num": 522
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 34.222915,
+		"longitude": -119.050699,
+		"store_num": 523
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 35.149657,
+		"longitude": -90.048913,
+		"store_num": 524
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 39.182185,
+		"longitude": -77.27004,
+		"store_num": 525
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 40.9171679,
+		"longitude": -111.878896,
+		"store_num": 526
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 40.75952,
+		"longitude": -111.888229,
+		"store_num": 527
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 42.11306,
+		"longitude": -88.037639,
+		"store_num": 528
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 42.96283,
+		"longitude": -78.744904,
+		"store_num": 529
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 43.095498,
+		"longitude": -79.055849,
+		"store_num": 530
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 42.88544,
+		"longitude": -78.878464,
+		"store_num": 531
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 42.903915,
+		"longitude": -78.740574,
+		"store_num": 532
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 35.10843,
+		"longitude": -77.042072,
+		"store_num": 533
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 37.357413,
+		"longitude": -77.442676,
+		"store_num": 534
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 37.665319,
+		"longitude": -77.504149,
+		"store_num": 535
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 41.867545,
+		"longitude": -88.011679,
+		"store_num": 536
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 34.07215,
+		"longitude": -117.939187,
+		"store_num": 537
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 33.045436,
+		"longitude": -117.292518,
+		"store_num": 538
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 38.792369,
+		"longitude": -90.595697,
+		"store_num": 539
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 25.93304,
+		"longitude": -80.162214,
+		"store_num": 540
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 39.26873,
+		"longitude": -76.79944,
+		"store_num": 541
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 39.209161,
+		"longitude": -76.867313,
+		"store_num": 542
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 39.414605,
+		"longitude": -76.774374,
+		"store_num": 543
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 36.846825,
+		"longitude": -76.285069,
+		"store_num": 544
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 27.63885,
+		"longitude": -80.394224,
+		"store_num": 545
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 27.94653,
+		"longitude": -82.459269,
+		"store_num": 546
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 42.913375,
+		"longitude": -85.693289,
+		"store_num": 547
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 28.357095,
+		"longitude": -80.685989,
+		"store_num": 548
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 40.56976,
+		"longitude": -111.894984,
+		"store_num": 549
+	},
+	{
+		"opening_date": 1996,
+		"latitude": 25.728985,
+		"longitude": -80.237419,
+		"store_num": 550
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 37.7742,
+		"longitude": -87.113537,
+		"store_num": 551
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 34.10668,
+		"longitude": -117.803839,
+		"store_num": 552
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 37.540545,
+		"longitude": -77.433409,
+		"store_num": 553
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 33.20204,
+		"longitude": -117.233962,
+		"store_num": 554
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 37.665319,
+		"longitude": -77.504149,
+		"store_num": 555
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 37.624421,
+		"longitude": -122.413798,
+		"store_num": 556
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 40.526798,
+		"longitude": -74.39357,
+		"store_num": 557
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 42.084655,
+		"longitude": -76.05346,
+		"store_num": 558
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 39.962,
+		"longitude": -83.003014,
+		"store_num": 559
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 36.167762,
+		"longitude": -86.778366,
+		"store_num": 560
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 43.072925,
+		"longitude": -89.386659,
+		"store_num": 561
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 30.267605,
+		"longitude": -97.742984,
+		"store_num": 562
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 39.97839,
+		"longitude": -86.126419,
+		"store_num": 563
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 44.093388,
+		"longitude": -93.229384,
+		"store_num": 564
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 42.36164,
+		"longitude": -87.833889,
+		"store_num": 565
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 43.492,
+		"longitude": -112.041994,
+		"store_num": 566
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 41.177086,
+		"longitude": -112.003808,
+		"store_num": 567
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 40.29805,
+		"longitude": -111.695414,
+		"store_num": 568
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 45.06466,
+		"longitude": -93.072089,
+		"store_num": 569
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 32.30673,
+		"longitude": -106.777734,
+		"store_num": 570
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 34.297274,
+		"longitude": -83.825503,
+		"store_num": 571
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 27.33888,
+		"longitude": -82.539629,
+		"store_num": 572
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 34.085189,
+		"longitude": -117.960296,
+		"store_num": 573
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 36.614052,
+		"longitude": -121.850583,
+		"store_num": 574
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 47.414187,
+		"longitude": -120.304898,
+		"store_num": 575
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 32.931045,
+		"longitude": -96.460764,
+		"store_num": 576
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 30.50904,
+		"longitude": -97.677224,
+		"store_num": 577
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 43.072925,
+		"longitude": -89.386659,
+		"store_num": 578
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 38.25486,
+		"longitude": -85.766404,
+		"store_num": 579
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 39.962,
+		"longitude": -83.003014,
+		"store_num": 580
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 33.580904,
+		"longitude": -85.078446,
+		"store_num": 581
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 35.78551,
+		"longitude": -78.642669,
+		"store_num": 582
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 35.2225,
+		"longitude": -80.837539,
+		"store_num": 583
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 38.959374,
+		"longitude": -77.354571,
+		"store_num": 584
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 38.88353,
+		"longitude": -94.818874,
+		"store_num": 585
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 38.841574,
+		"longitude": -77.308132,
+		"store_num": 586
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 35.691543,
+		"longitude": -105.937406,
+		"store_num": 587
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 42.197221,
+		"longitude": -88.092136,
+		"store_num": 588
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 37.540545,
+		"longitude": -77.433409,
+		"store_num": 589
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 39.51046,
+		"longitude": -76.163034,
+		"store_num": 590
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 42.766165,
+		"longitude": -78.743879,
+		"store_num": 591
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 25.728985,
+		"longitude": -80.237419,
+		"store_num": 592
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 38.804565,
+		"longitude": -77.043079,
+		"store_num": 593
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 36.0996,
+		"longitude": -80.241094,
+		"store_num": 594
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 36.068994,
+		"longitude": -79.794704,
+		"store_num": 595
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 35.954689,
+		"longitude": -80.005085,
+		"store_num": 596
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 40.696105,
+		"longitude": -74.268514,
+		"store_num": 597
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 39.9275,
+		"longitude": -75.030549,
+		"store_num": 598
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 35.2225,
+		"longitude": -80.837539,
+		"store_num": 599
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 38.751195,
+		"longitude": -77.471119,
+		"store_num": 600
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 33.47909,
+		"longitude": -81.975309,
+		"store_num": 601
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 39.106441,
+		"longitude": -84.504694,
+		"store_num": 602
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 39.106441,
+		"longitude": -84.504694,
+		"store_num": 603
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 39.106441,
+		"longitude": -84.504694,
+		"store_num": 604
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 38.048595,
+		"longitude": -84.500319,
+		"store_num": 605
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 44.979035,
+		"longitude": -93.264929,
+		"store_num": 606
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 44.051295,
+		"longitude": -91.638594,
+		"store_num": 607
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 38.68155,
+		"longitude": -121.163264,
+		"store_num": 608
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 38.791525,
+		"longitude": -90.323004,
+		"store_num": 609
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 36.980505,
+		"longitude": -76.429454,
+		"store_num": 610
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 35.705613,
+		"longitude": -78.621392,
+		"store_num": 611
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 36.755,
+		"longitude": -76.059229,
+		"store_num": 612
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 33.953195,
+		"longitude": -84.545879,
+		"store_num": 613
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 39.451905,
+		"longitude": -74.726799,
+		"store_num": 614
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 41.065948,
+		"longitude": -111.961029,
+		"store_num": 615
+	},
+	{
+		"opening_date": 1997,
+		"latitude": 38.984895,
+		"longitude": -94.671684,
+		"store_num": 616
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 42.978378,
+		"longitude": -78.800003,
+		"store_num": 617
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 38.618215,
+		"longitude": -90.348484,
+		"store_num": 618
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 34.23497,
+		"longitude": -77.945992,
+		"store_num": 619
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 40.847146,
+		"longitude": -73.291461,
+		"store_num": 620
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 26.616265,
+		"longitude": -80.057244,
+		"store_num": 621
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 41.63891,
+		"longitude": -81.407314,
+		"store_num": 622
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 34.748655,
+		"longitude": -92.274494,
+		"store_num": 623
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 30.31218,
+		"longitude": -95.455919,
+		"store_num": 624
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 32.7477,
+		"longitude": -97.007199,
+		"store_num": 625
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 35.24158,
+		"longitude": -106.660029,
+		"store_num": 626
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 47.75448,
+		"longitude": -122.157124,
+		"store_num": 627
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 37.5364,
+		"longitude": -122.029684,
+		"store_num": 628
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 35.625095,
+		"longitude": -120.691264,
+		"store_num": 629
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 38.69784,
+		"longitude": -121.271764,
+		"store_num": 630
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 37.54703,
+		"longitude": -122.314834,
+		"store_num": 631
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 26.330597,
+		"longitude": -81.800719,
+		"store_num": 632
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 40.757105,
+		"longitude": -73.586829,
+		"store_num": 633
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 39.022905,
+		"longitude": -94.715434,
+		"store_num": 634
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 36.755,
+		"longitude": -76.059229,
+		"store_num": 635
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 25.96861,
+		"longitude": -80.144639,
+		"store_num": 636
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 41.10232,
+		"longitude": -73.972469,
+		"store_num": 637
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 36.0996,
+		"longitude": -80.241094,
+		"store_num": 638
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 34.185003,
+		"longitude": -118.894256,
+		"store_num": 639
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 41.676952,
+		"longitude": -91.586488,
+		"store_num": 640
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 35.8444,
+		"longitude": -86.394339,
+		"store_num": 641
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 42.115535,
+		"longitude": -86.457484,
+		"store_num": 642
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 39.726798,
+		"longitude": -84.057274,
+		"store_num": 643
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 39.86229,
+		"longitude": -84.127684,
+		"store_num": 644
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 39.79931,
+		"longitude": -84.292729,
+		"store_num": 645
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 39.772812,
+		"longitude": -75.056473,
+		"store_num": 646
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 39.85498,
+		"longitude": -74.98378,
+		"store_num": 647
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 40.176396,
+		"longitude": -74.918884,
+		"store_num": 648
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 39.930691,
+		"longitude": -75.321513,
+		"store_num": 649
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 39.415745,
+		"longitude": -77.412034,
+		"store_num": 650
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 38.99668,
+		"longitude": -77.028874,
+		"store_num": 651
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 33.44826,
+		"longitude": -112.075774,
+		"store_num": 652
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 39.399935,
+		"longitude": -76.605364,
+		"store_num": 653
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 40.076235,
+		"longitude": -74.857459,
+		"store_num": 654
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 32.813516,
+		"longitude": -96.955506,
+		"store_num": 655
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 29.76045,
+		"longitude": -95.369784,
+		"store_num": 656
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 42.024526,
+		"longitude": -87.801446,
+		"store_num": 657
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 40.028053,
+		"longitude": -75.62898,
+		"store_num": 658
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 32.79495,
+		"longitude": -116.959469,
+		"store_num": 659
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 36.90872,
+		"longitude": -121.755154,
+		"store_num": 660
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 45.17309,
+		"longitude": -93.304403,
+		"store_num": 661
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 39.740235,
+		"longitude": -75.550844,
+		"store_num": 662
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 40.684996,
+		"longitude": -73.400861,
+		"store_num": 663
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 40.784085,
+		"longitude": -73.845813,
+		"store_num": 664
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 40.453086,
+		"longitude": -74.434487,
+		"store_num": 665
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 40.074733,
+		"longitude": -74.153,
+		"store_num": 666
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 42.98225,
+		"longitude": -77.408421,
+		"store_num": 667
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 43.1555,
+		"longitude": -77.616033,
+		"store_num": 668
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 40.50719,
+		"longitude": -78.398904,
+		"store_num": 669
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 37.27559,
+		"longitude": -76.70973,
+		"store_num": 670
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 37.271525,
+		"longitude": -79.940534,
+		"store_num": 671
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 33.953195,
+		"longitude": -84.545879,
+		"store_num": 672
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 42.185665,
+		"longitude": -87.799364,
+		"store_num": 673
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 33.75018,
+		"longitude": -84.749124,
+		"store_num": 674
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 43.66659,
+		"longitude": -92.972333,
+		"store_num": 675
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 46.27864,
+		"longitude": -96.072389,
+		"store_num": 676
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 42.138015,
+		"longitude": -87.995949,
+		"store_num": 677
+	},
+	{
+		"opening_date": 1998,
+		"latitude": 40.39272,
+		"longitude": -105.073899,
+		"store_num": 678
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 32.40766,
+		"longitude": -110.995691,
+		"store_num": 679
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 32.347475,
+		"longitude": -95.294299,
+		"store_num": 680
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 27.771185,
+		"longitude": -82.639319,
+		"store_num": 681
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 40.349855,
+		"longitude": -74.659119,
+		"store_num": 682
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 33.813653,
+		"longitude": -84.63405,
+		"store_num": 683
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 42.245221,
+		"longitude": -88.321916,
+		"store_num": 684
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 42.077455,
+		"longitude": -87.798569,
+		"store_num": 685
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 34.96267,
+		"longitude": -90.048679,
+		"store_num": 686
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 42.025345,
+		"longitude": -93.620199,
+		"store_num": 687
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 39.10296,
+		"longitude": -94.583062,
+		"store_num": 688
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 32.462925,
+		"longitude": -84.987629,
+		"store_num": 689
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 34.84802,
+		"longitude": -82.400219,
+		"store_num": 690
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 40.109735,
+		"longitude": -74.94093,
+		"store_num": 691
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 45.011497,
+		"longitude": -92.993545,
+		"store_num": 692
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 33.803848,
+		"longitude": -84.169998,
+		"store_num": 693
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 40.60675,
+		"longitude": -111.938754,
+		"store_num": 694
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 39.291087,
+		"longitude": -84.482954,
+		"store_num": 695
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 40.720233,
+		"longitude": -73.24922,
+		"store_num": 696
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 39.95288,
+		"longitude": -74.193769,
+		"store_num": 697
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 36.171915,
+		"longitude": -115.139974,
+		"store_num": 698
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 35.73491,
+		"longitude": -81.335604,
+		"store_num": 699
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 42.784801,
+		"longitude": -71.210487,
+		"store_num": 700
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 42.562137,
+		"longitude": -70.939446,
+		"store_num": 701
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 41.69856,
+		"longitude": -71.46166,
+		"store_num": 702
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 41.900915,
+		"longitude": -71.088779,
+		"store_num": 703
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 41.980382,
+		"longitude": -71.333104,
+		"store_num": 704
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 40.91478,
+		"longitude": -73.105888,
+		"store_num": 705
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 40.393754,
+		"longitude": -74.10331,
+		"store_num": 706
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 39.139866,
+		"longitude": -77.193829,
+		"store_num": 707
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 33.748315,
+		"longitude": -84.391109,
+		"store_num": 708
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 34.50044,
+		"longitude": -82.649579,
+		"store_num": 709
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 33.99855,
+		"longitude": -81.045249,
+		"store_num": 710
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 39.00085,
+		"longitude": -84.630994,
+		"store_num": 711
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 39.093245,
+		"longitude": -94.415629,
+		"store_num": 712
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 44.312225,
+		"longitude": -94.461114,
+		"store_num": 713
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 29.885099,
+		"longitude": -97.930779,
+		"store_num": 714
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 36.171915,
+		"longitude": -115.139974,
+		"store_num": 715
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 33.100155,
+		"longitude": -96.674489,
+		"store_num": 716
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 42.206965,
+		"longitude": -72.607434,
+		"store_num": 717
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 40.212875,
+		"longitude": -75.278819,
+		"store_num": 718
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 26.12367,
+		"longitude": -80.143564,
+		"store_num": 719
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 36.068994,
+		"longitude": -79.794704,
+		"store_num": 720
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 43.1555,
+		"longitude": -77.616033,
+		"store_num": 721
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 43.10106,
+		"longitude": -77.441914,
+		"store_num": 722
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 40.253424,
+		"longitude": -75.136479,
+		"store_num": 723
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 34.119265,
+		"longitude": -84.006004,
+		"store_num": 724
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 37.90118,
+		"longitude": -122.061628,
+		"store_num": 725
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 33.329042,
+		"longitude": -111.789767,
+		"store_num": 726
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 44.89056,
+		"longitude": -94.369224,
+		"store_num": 727
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 43.320146,
+		"longitude": -87.940699,
+		"store_num": 728
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 39.76691,
+		"longitude": -86.149964,
+		"store_num": 729
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 41.36768,
+		"longitude": -82.105839,
+		"store_num": 730
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 40.167525,
+		"longitude": -80.246479,
+		"store_num": 731
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 40.43831,
+		"longitude": -79.997459,
+		"store_num": 732
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 40.43831,
+		"longitude": -79.997459,
+		"store_num": 733
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 40.43638,
+		"longitude": -79.780204,
+		"store_num": 734
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 40.299245,
+		"longitude": -79.543159,
+		"store_num": 735
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 39.964535,
+		"longitude": -76.724289,
+		"store_num": 736
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 33.37485,
+		"longitude": -84.800469,
+		"store_num": 737
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 40.592881,
+		"longitude": -74.625104,
+		"store_num": 738
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 37.50358,
+		"longitude": -77.651279,
+		"store_num": 739
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 34.74929,
+		"longitude": -77.421054,
+		"store_num": 740
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 43.20725,
+		"longitude": -71.536604,
+		"store_num": 741
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 42.758365,
+		"longitude": -71.464209,
+		"store_num": 742
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 38.365735,
+		"longitude": -75.595319,
+		"store_num": 743
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 39.184005,
+		"longitude": -78.164049,
+		"store_num": 744
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 44.981915,
+		"longitude": -92.757194,
+		"store_num": 745
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 39.962,
+		"longitude": -83.003014,
+		"store_num": 746
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 45.679325,
+		"longitude": -111.033184,
+		"store_num": 747
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 33.686887,
+		"longitude": -117.825348,
+		"store_num": 748
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 39.164885,
+		"longitude": -119.766999,
+		"store_num": 749
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 38.810295,
+		"longitude": -90.699944,
+		"store_num": 750
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 33.436305,
+		"longitude": -112.358299,
+		"store_num": 751
+	},
+	{
+		"opening_date": 1999,
+		"latitude": 28.53774,
+		"longitude": -81.377389,
+		"store_num": 752
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 36.19896,
+		"longitude": -115.118548,
+		"store_num": 753
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 45.281915,
+		"longitude": -92.984199,
+		"store_num": 754
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 44.74229,
+		"longitude": -92.851889,
+		"store_num": 755
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 44.26178,
+		"longitude": -88.416564,
+		"store_num": 756
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 35.753555,
+		"longitude": -83.973644,
+		"store_num": 757
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 39.759055,
+		"longitude": -84.194439,
+		"store_num": 758
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 40.401495,
+		"longitude": -79.903754,
+		"store_num": 759
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 39.6425,
+		"longitude": -77.717579,
+		"store_num": 760
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 38.30361,
+		"longitude": -76.519769,
+		"store_num": 761
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 40.70237399,
+		"longitude": -80.11993699,
+		"store_num": 762
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 40.98524,
+		"longitude": -75.194489,
+		"store_num": 763
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 38.350215,
+		"longitude": -81.638929,
+		"store_num": 764
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 40.66404,
+		"longitude": -73.708529,
+		"store_num": 765
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 40.725952,
+		"longitude": -73.512739,
+		"store_num": 766
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 34.02166,
+		"longitude": -84.360299,
+		"store_num": 767
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 40.41737,
+		"longitude": -86.876554,
+		"store_num": 768
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 29.589515,
+		"longitude": -98.304704,
+		"store_num": 769
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 41.674785,
+		"longitude": -87.997994,
+		"store_num": 770
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 40.334725,
+		"longitude": -75.960994,
+		"store_num": 771
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 33.30288,
+		"longitude": -111.840839,
+		"store_num": 772
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 42.671125,
+		"longitude": -83.220534,
+		"store_num": 773
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 40.259876,
+		"longitude": -76.882222,
+		"store_num": 774
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 39.488165,
+		"longitude": -76.654304,
+		"store_num": 775
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 42.720765,
+		"longitude": -73.836524,
+		"store_num": 776
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 43.0837,
+		"longitude": -73.784579,
+		"store_num": 777
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 44.79806,
+		"longitude": -93.526654,
+		"store_num": 778
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 30.420845,
+		"longitude": -87.217239,
+		"store_num": 779
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 30.603905,
+		"longitude": -87.901509,
+		"store_num": 780
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 37.41402,
+		"longitude": -79.142839,
+		"store_num": 781
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 38.426657,
+		"longitude": -90.37706099,
+		"store_num": 782
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 38.58032,
+		"longitude": -90.406394,
+		"store_num": 783
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 38.782435,
+		"longitude": -90.482079,
+		"store_num": 784
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 46.58976,
+		"longitude": -112.021204,
+		"store_num": 785
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 33.532644,
+		"longitude": -117.180872,
+		"store_num": 786
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 33.150495,
+		"longitude": -96.834639,
+		"store_num": 787
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 33.020785,
+		"longitude": -96.699214,
+		"store_num": 788
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 32.8740049,
+		"longitude": -97.249851,
+		"store_num": 789
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 32.840535,
+		"longitude": -97.186264,
+		"store_num": 790
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 41.73184,
+		"longitude": -93.605264,
+		"store_num": 791
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 38.896205,
+		"longitude": -121.078869,
+		"store_num": 792
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 40.87998,
+		"longitude": -74.289624,
+		"store_num": 793
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 44.4496,
+		"longitude": -93.153759,
+		"store_num": 794
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 42.40816,
+		"longitude": -71.054484,
+		"store_num": 795
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 41.77536,
+		"longitude": -72.522674,
+		"store_num": 796
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 40.82654,
+		"longitude": -73.973704,
+		"store_num": 797
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 42.479195,
+		"longitude": -71.150604,
+		"store_num": 798
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 41.34285,
+		"longitude": -72.129134,
+		"store_num": 799
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 40.102845,
+		"longitude": -75.274624,
+		"store_num": 800
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 40.43831,
+		"longitude": -79.997459,
+		"store_num": 801
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 39.92502,
+		"longitude": -83.806734,
+		"store_num": 802
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 42.14645,
+		"longitude": -71.51965,
+		"store_num": 803
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 47.60358,
+		"longitude": -122.329454,
+		"store_num": 804
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 42.24088,
+		"longitude": -83.613089,
+		"store_num": 805
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 42.129445,
+		"longitude": -80.085239,
+		"store_num": 806
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 40.79373,
+		"longitude": -77.860704,
+		"store_num": 807
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 41.66772,
+		"longitude": -72.782294,
+		"store_num": 808
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 42.46532,
+		"longitude": -71.009705,
+		"store_num": 809
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 37.130145,
+		"longitude": -80.408409,
+		"store_num": 810
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 33.66388,
+		"longitude": -117.903424,
+		"store_num": 811
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 39.000267,
+		"longitude": -76.878927,
+		"store_num": 812
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 32.237215,
+		"longitude": -80.861334,
+		"store_num": 813
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 28.04419,
+		"longitude": -81.947864,
+		"store_num": 814
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 30.33138,
+		"longitude": -81.655799,
+		"store_num": 815
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 41.180995,
+		"longitude": -80.765144,
+		"store_num": 816
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 35.046432,
+		"longitude": -85.309421,
+		"store_num": 817
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 45.57265,
+		"longitude": -93.224764,
+		"store_num": 818
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 37.495015,
+		"longitude": -120.846419,
+		"store_num": 819
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 33.868545,
+		"longitude": -118.063704,
+		"store_num": 820
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 34.05329,
+		"longitude": -118.245009,
+		"store_num": 821
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 34.18416,
+		"longitude": -118.446517,
+		"store_num": 822
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 33.56173,
+		"longitude": -81.722394,
+		"store_num": 823
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 42.975375,
+		"longitude": -88.118559,
+		"store_num": 824
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 39.95406,
+		"longitude": -105.166199,
+		"store_num": 825
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 32.74863,
+		"longitude": -97.329249,
+		"store_num": 826
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 41.976345,
+		"longitude": -91.673759,
+		"store_num": 827
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 33.520295,
+		"longitude": -86.811504,
+		"store_num": 828
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 33.520295,
+		"longitude": -86.811504,
+		"store_num": 829
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 44.816512,
+		"longitude": -91.501238,
+		"store_num": 830
+	},
+	{
+		"opening_date": 2000,
+		"latitude": 32.778155,
+		"longitude": -96.795404,
+		"store_num": 831
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 41.467756,
+		"longitude": -87.061629,
+		"store_num": 832
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 39.158035,
+		"longitude": -75.524734,
+		"store_num": 833
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 42.562375,
+		"longitude": -83.154489,
+		"store_num": 834
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 38.517859,
+		"longitude": -90.452218,
+		"store_num": 835
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 40.631995,
+		"longitude": -74.255204,
+		"store_num": 836
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 41.608487,
+		"longitude": -83.560973,
+		"store_num": 837
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 41.926718,
+		"longitude": -73.996506,
+		"store_num": 838
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 33.99855,
+		"longitude": -81.045249,
+		"store_num": 839
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 34.800465,
+		"longitude": -87.675254,
+		"store_num": 840
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 41.520095,
+		"longitude": -81.457729,
+		"store_num": 841
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 41.46717,
+		"longitude": -82.020689,
+		"store_num": 842
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 33.742565,
+		"longitude": -118.105169,
+		"store_num": 843
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 33.96178,
+		"longitude": -118.356226,
+		"store_num": 844
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 41.260645,
+		"longitude": -95.940469,
+		"store_num": 845
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 34.003365,
+		"longitude": -84.144964,
+		"store_num": 846
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 34.102845,
+		"longitude": -84.518794,
+		"store_num": 847
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 47.924085,
+		"longitude": -97.032034,
+		"store_num": 848
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 32.778155,
+		"longitude": -96.795404,
+		"store_num": 849
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 29.42449,
+		"longitude": -98.494624,
+		"store_num": 850
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 29.632965,
+		"longitude": -95.599454,
+		"store_num": 851
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 40.30624,
+		"longitude": -74.375458,
+		"store_num": 852
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 44.83519,
+		"longitude": -87.370659,
+		"store_num": 853
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 44.512795,
+		"longitude": -88.010159,
+		"store_num": 854
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 42.222375,
+		"longitude": -74.592039,
+		"store_num": 855
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 34.18416,
+		"longitude": -118.446517,
+		"store_num": 856
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 32.221553,
+		"longitude": -110.969754,
+		"store_num": 857
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 33.49401,
+		"longitude": -111.921409,
+		"store_num": 858
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 48.014376,
+		"longitude": -122.064066,
+		"store_num": 859
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 34.147235,
+		"longitude": -118.144264,
+		"store_num": 860
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 45.783975,
+		"longitude": -108.505794,
+		"store_num": 861
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 46.54584,
+		"longitude": -87.413684,
+		"store_num": 862
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 33.63861,
+		"longitude": -112.326939,
+		"store_num": 863
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 29.76045,
+		"longitude": -95.369784,
+		"store_num": 864
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 32.7356,
+		"longitude": -97.107719,
+		"store_num": 865
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 33.91561,
+		"longitude": -118.072519,
+		"store_num": 866
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 38.841574,
+		"longitude": -77.308132,
+		"store_num": 867
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 41.99577,
+		"longitude": -87.862159,
+		"store_num": 868
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 40.27631,
+		"longitude": -74.539658,
+		"store_num": 869
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 34.729121,
+		"longitude": -86.584961,
+		"store_num": 870
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 32.514615,
+		"longitude": -93.747274,
+		"store_num": 871
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 34.948265,
+		"longitude": -81.934829,
+		"store_num": 872
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 39.9582,
+		"longitude": -86.017089,
+		"store_num": 873
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 44.01925,
+		"longitude": -92.459779,
+		"store_num": 874
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 29.42449,
+		"longitude": -98.494624,
+		"store_num": 875
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 47.044465,
+		"longitude": -122.823189,
+		"store_num": 876
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 37.109075,
+		"longitude": -113.583304,
+		"store_num": 877
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 41.829792,
+		"longitude": -71.325196,
+		"store_num": 878
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 26.153876,
+		"longitude": -80.223407,
+		"store_num": 879
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 28.53774,
+		"longitude": -81.377389,
+		"store_num": 880
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 39.762855,
+		"longitude": -86.394679,
+		"store_num": 881
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 39.76691,
+		"longitude": -86.149964,
+		"store_num": 882
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 41.625058,
+		"longitude": -93.712435,
+		"store_num": 883
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 42.492955,
+		"longitude": -92.342311,
+		"store_num": 884
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 40.636253,
+		"longitude": -74.452961,
+		"store_num": 885
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 47.328,
+		"longitude": -122.580369,
+		"store_num": 886
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 43.60698,
+		"longitude": -116.193409,
+		"store_num": 887
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 41.999747,
+		"longitude": -72.594185,
+		"store_num": 888
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 40.115159,
+		"longitude": -75.121431,
+		"store_num": 889
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 42.279519,
+		"longitude": -71.416519,
+		"store_num": 890
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 39.375915,
+		"longitude": -104.859959,
+		"store_num": 891
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 40.88606,
+		"longitude": -74.044464,
+		"store_num": 892
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 26.32004,
+		"longitude": -80.099789,
+		"store_num": 893
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 43.63761,
+		"longitude": -70.251734,
+		"store_num": 894
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 40.74358,
+		"longitude": -73.884254,
+		"store_num": 895
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 42.26299,
+		"longitude": -71.802354,
+		"store_num": 896
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 44.787195,
+		"longitude": -93.601824,
+		"store_num": 897
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 44.939448,
+		"longitude": -93.467869,
+		"store_num": 898
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 29.606955,
+		"longitude": -95.526989,
+		"store_num": 899
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 33.44826,
+		"longitude": -112.075774,
+		"store_num": 900
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 33.53858,
+		"longitude": -112.186279,
+		"store_num": 901
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 34.18147,
+		"longitude": -118.308124,
+		"store_num": 902
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 39.524555,
+		"longitude": -119.811649,
+		"store_num": 903
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 39.61364,
+		"longitude": -86.110289,
+		"store_num": 904
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 39.97839,
+		"longitude": -86.126419,
+		"store_num": 905
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 34.729121,
+		"longitude": -86.584961,
+		"store_num": 906
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 32.839179,
+		"longitude": -97.091169,
+		"store_num": 907
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 30.44342,
+		"longitude": -91.186874,
+		"store_num": 908
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 34.92399,
+		"longitude": -81.026654,
+		"store_num": 909
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 39.869207,
+		"longitude": -104.984825,
+		"store_num": 910
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 41.536306,
+		"longitude": -72.797811,
+		"store_num": 911
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 44.979035,
+		"longitude": -93.264929,
+		"store_num": 912
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 32.839685,
+		"longitude": -83.627579,
+		"store_num": 913
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 32.620835,
+		"longitude": -83.606874,
+		"store_num": 914
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 40.758515,
+		"longitude": -82.514804,
+		"store_num": 915
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 33.870325,
+		"longitude": -117.929104,
+		"store_num": 916
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 35.366975,
+		"longitude": -119.018844,
+		"store_num": 917
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 33.417045,
+		"longitude": -111.831459,
+		"store_num": 918
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 39.10296,
+		"longitude": -94.583062,
+		"store_num": 919
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 39.82835,
+		"longitude": -75.124397,
+		"store_num": 920
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 33.854351,
+		"longitude": -84.212033,
+		"store_num": 921
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 39.616905,
+		"longitude": -105.014519,
+		"store_num": 922
+	},
+	{
+		"opening_date": 2001,
+		"latitude": 28.53774,
+		"longitude": -81.377389,
+		"store_num": 923
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 29.892128,
+		"longitude": -81.314255,
+		"store_num": 924
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 39.886318,
+		"longitude": -74.90844,
+		"store_num": 925
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 35.960495,
+		"longitude": -83.920914,
+		"store_num": 926
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 30.686395,
+		"longitude": -88.053239,
+		"store_num": 927
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 29.543565,
+		"longitude": -95.031874,
+		"store_num": 928
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 39.84758,
+		"longitude": -74.29229,
+		"store_num": 929
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 28.240465,
+		"longitude": -82.328519,
+		"store_num": 930
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 42.13954,
+		"longitude": -87.916194,
+		"store_num": 931
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 32.781155,
+		"longitude": -79.931599,
+		"store_num": 932
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 38.913915,
+		"longitude": -94.375169,
+		"store_num": 933
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 39.172375,
+		"longitude": -84.296379,
+		"store_num": 934
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 34.203574,
+		"longitude": -84.139944,
+		"store_num": 935
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 33.04723,
+		"longitude": -96.995929,
+		"store_num": 936
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 35.472005,
+		"longitude": -97.520334,
+		"store_num": 937
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 35.65447,
+		"longitude": -97.478124,
+		"store_num": 938
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 30.224033,
+		"longitude": -93.220111,
+		"store_num": 939
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 33.888735,
+		"longitude": -84.756039,
+		"store_num": 940
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 41.68306,
+		"longitude": -88.353024,
+		"store_num": 941
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 41.60843,
+		"longitude": -88.212674,
+		"store_num": 942
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 41.885764,
+		"longitude": -71.509023,
+		"store_num": 943
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 44.04991,
+		"longitude": -123.088919,
+		"store_num": 944
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 45.531728,
+		"longitude": -122.439314,
+		"store_num": 945
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 37.691085,
+		"longitude": -122.473349,
+		"store_num": 946
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 34.08072,
+		"longitude": -118.076539,
+		"store_num": 947
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 38.779044,
+		"longitude": -77.191655,
+		"store_num": 948
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 36.740615,
+		"longitude": -119.785679,
+		"store_num": 949
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 36.714299,
+		"longitude": -76.24785,
+		"store_num": 950
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 45.511795,
+		"longitude": -122.675629,
+		"store_num": 951
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 41.976345,
+		"longitude": -91.673759,
+		"store_num": 952
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 36.14975,
+		"longitude": -95.993354,
+		"store_num": 953
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 33.210425,
+		"longitude": -87.566209,
+		"store_num": 954
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 29.690847,
+		"longitude": -95.196308,
+		"store_num": 955
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 34.05329,
+		"longitude": -118.245009,
+		"store_num": 956
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 32.715685,
+		"longitude": -117.161724,
+		"store_num": 957
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 39.043079,
+		"longitude": -77.050987,
+		"store_num": 958
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 33.870325,
+		"longitude": -117.929104,
+		"store_num": 959
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 45.511795,
+		"longitude": -122.675629,
+		"store_num": 960
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 34.077661,
+		"longitude": -117.698263,
+		"store_num": 961
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 33.91561,
+		"longitude": -118.072519,
+		"store_num": 962
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 33.982345,
+		"longitude": -118.088034,
+		"store_num": 963
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 42.386675,
+		"longitude": -71.098264,
+		"store_num": 964
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 42.367615,
+		"longitude": -71.187879,
+		"store_num": 965
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 39.95227,
+		"longitude": -75.162369,
+		"store_num": 966
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 45.632215,
+		"longitude": -122.671544,
+		"store_num": 967
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 41.738872,
+		"longitude": -86.135249,
+		"store_num": 968
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 41.58918,
+		"longitude": -85.836954,
+		"store_num": 969
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 39.106441,
+		"longitude": -84.504694,
+		"store_num": 970
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 45.17709,
+		"longitude": -93.112297,
+		"store_num": 971
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 29.988052,
+		"longitude": -90.131028,
+		"store_num": 972
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 29.59733,
+		"longitude": -90.719129,
+		"store_num": 973
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 29.907477,
+		"longitude": -90.080977,
+		"store_num": 974
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 34.19363,
+		"longitude": -79.769059,
+		"store_num": 975
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 26.62982,
+		"longitude": -81.956939,
+		"store_num": 976
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 39.10296,
+		"longitude": -94.583062,
+		"store_num": 977
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 45.18947,
+		"longitude": -93.552599,
+		"store_num": 978
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 29.550935,
+		"longitude": -95.256869,
+		"store_num": 979
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 41.56254,
+		"longitude": -87.665679,
+		"store_num": 980
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 33.447745,
+		"longitude": -84.147729,
+		"store_num": 981
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 36.171915,
+		"longitude": -115.139974,
+		"store_num": 982
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 42.68326,
+		"longitude": -83.034394,
+		"store_num": 983
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 40.624555,
+		"longitude": -74.314104,
+		"store_num": 984
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 32.50965,
+		"longitude": -92.119049,
+		"store_num": 985
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 36.063205,
+		"longitude": -94.157914,
+		"store_num": 986
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 37.976911,
+		"longitude": -87.564125,
+		"store_num": 987
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 40.1334039,
+		"longitude": -75.4583149,
+		"store_num": 988
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 41.913765,
+		"longitude": -88.312844,
+		"store_num": 989
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 38.653663,
+		"longitude": -90.553177,
+		"store_num": 990
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 40.847146,
+		"longitude": -73.291461,
+		"store_num": 991
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 40.692385,
+		"longitude": -73.989872,
+		"store_num": 992
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 39.708709,
+		"longitude": -104.812649,
+		"store_num": 993
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 37.55091,
+		"longitude": -121.982169,
+		"store_num": 994
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 37.338475,
+		"longitude": -121.885794,
+		"store_num": 995
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 37.338475,
+		"longitude": -121.885794,
+		"store_num": 996
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 37.72802,
+		"longitude": -122.158344,
+		"store_num": 997
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 32.960745,
+		"longitude": -96.732969,
+		"store_num": 998
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 38.88549,
+		"longitude": -77.173624,
+		"store_num": 999
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 33.604641,
+		"longitude": -111.720016,
+		"store_num": 1000
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 39.10296,
+		"longitude": -94.583062,
+		"store_num": 1001
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 30.000185,
+		"longitude": -95.268624,
+		"store_num": 1002
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 30.084541,
+		"longitude": -95.419283,
+		"store_num": 1003
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 41.024349,
+		"longitude": -80.65976,
+		"store_num": 1004
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 40.694569,
+		"longitude": -75.198234,
+		"store_num": 1005
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 42.46626,
+		"longitude": -83.486284,
+		"store_num": 1006
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 39.708709,
+		"longitude": -104.812649,
+		"store_num": 1007
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 37.671197,
+		"longitude": -122.086137,
+		"store_num": 1008
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 30.220325,
+		"longitude": -92.017054,
+		"store_num": 1009
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 41.467877,
+		"longitude": -75.6435,
+		"store_num": 1010
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 43.10424,
+		"longitude": -76.209649,
+		"store_num": 1011
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 43.029856,
+		"longitude": -76.005251,
+		"store_num": 1012
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 42.866952,
+		"longitude": -73.771783,
+		"store_num": 1013
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 38.408949,
+		"longitude": -82.293594,
+		"store_num": 1014
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 38.25486,
+		"longitude": -85.766404,
+		"store_num": 1015
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 44.512795,
+		"longitude": -88.010159,
+		"store_num": 1016
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 44.657015,
+		"longitude": -93.242734,
+		"store_num": 1017
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 32.85517,
+		"longitude": -116.983141,
+		"store_num": 1018
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 33.748315,
+		"longitude": -84.391109,
+		"store_num": 1019
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 39.019195,
+		"longitude": -94.653744,
+		"store_num": 1020
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 41.88415,
+		"longitude": -87.632409,
+		"store_num": 1021
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 26.20742,
+		"longitude": -98.229364,
+		"store_num": 1022
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 40.825975,
+		"longitude": -74.360619,
+		"store_num": 1023
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 43.071791,
+		"longitude": -75.287048,
+		"store_num": 1024
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 41.993707,
+		"longitude": -70.731936,
+		"store_num": 1025
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 42.2667,
+		"longitude": -71.616129,
+		"store_num": 1026
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 30.165065,
+		"longitude": -81.701154,
+		"store_num": 1027
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 39.71095,
+		"longitude": -105.082737,
+		"store_num": 1028
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 38.83311,
+		"longitude": -104.821729,
+		"store_num": 1029
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 38.748529,
+		"longitude": -121.284558,
+		"store_num": 1030
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 30.165065,
+		"longitude": -81.701154,
+		"store_num": 1031
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 31.84915,
+		"longitude": -102.375189,
+		"store_num": 1032
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 42.440495,
+		"longitude": -76.495454,
+		"store_num": 1033
+	},
+	{
+		"opening_date": 2002,
+		"latitude": 38.62774,
+		"longitude": -90.199514,
+		"store_num": 1034
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 44.566585,
+		"longitude": -92.534354,
+		"store_num": 1035
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 40.86015,
+		"longitude": -79.895274,
+		"store_num": 1036
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 42.77309,
+		"longitude": -86.101754,
+		"store_num": 1037
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 32.913865,
+		"longitude": -96.636554,
+		"store_num": 1038
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 30.275765,
+		"longitude": -89.781624,
+		"store_num": 1039
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 35.97508,
+		"longitude": -78.507324,
+		"store_num": 1040
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 35.582525,
+		"longitude": -80.814689,
+		"store_num": 1041
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 36.304861,
+		"longitude": -86.620216,
+		"store_num": 1042
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 32.838431,
+		"longitude": -97.2266,
+		"store_num": 1043
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 33.034227,
+		"longitude": -97.059596,
+		"store_num": 1044
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 28.53774,
+		"longitude": -81.377389,
+		"store_num": 1045
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 28.551295,
+		"longitude": -81.766339,
+		"store_num": 1046
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 43.09705,
+		"longitude": -71.465157,
+		"store_num": 1047
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 42.812261,
+		"longitude": -73.941017,
+		"store_num": 1048
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 29.484565,
+		"longitude": -98.547434,
+		"store_num": 1049
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 36.171915,
+		"longitude": -115.139974,
+		"store_num": 1050
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 39.636524,
+		"longitude": -106.073807,
+		"store_num": 1051
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 37.79917,
+		"longitude": -121.232189,
+		"store_num": 1052
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 32.801445,
+		"longitude": -79.889744,
+		"store_num": 1053
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 40.193165,
+		"longitude": -85.381734,
+		"store_num": 1054
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 31.571821,
+		"longitude": -97.149507,
+		"store_num": 1055
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 29.29533,
+		"longitude": -94.807864,
+		"store_num": 1056
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 41.13647,
+		"longitude": -95.893009,
+		"store_num": 1057
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 38.81081,
+		"longitude": -94.530959,
+		"store_num": 1058
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 38.55811,
+		"longitude": -89.897686,
+		"store_num": 1059
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 48.20164,
+		"longitude": -114.314901,
+		"store_num": 1060
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 39.37572,
+		"longitude": -76.724004,
+		"store_num": 1061
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 38.88353,
+		"longitude": -94.818874,
+		"store_num": 1062
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 33.01897,
+		"longitude": -80.176014,
+		"store_num": 1063
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 38.25486,
+		"longitude": -85.766404,
+		"store_num": 1064
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 42.346806,
+		"longitude": -71.547991,
+		"store_num": 1065
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 42.758365,
+		"longitude": -71.464209,
+		"store_num": 1066
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 39.963531,
+		"longitude": -75.598488,
+		"store_num": 1067
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 32.574786,
+		"longitude": -97.12321,
+		"store_num": 1068
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 30.268735,
+		"longitude": -97.745209,
+		"store_num": 1069
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 39.106441,
+		"longitude": -84.504694,
+		"store_num": 1070
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 33.67944,
+		"longitude": -84.441814,
+		"store_num": 1071
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 34.286901,
+		"longitude": -118.882139,
+		"store_num": 1072
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 33.877895,
+		"longitude": -117.575039,
+		"store_num": 1073
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 35.2225,
+		"longitude": -80.837539,
+		"store_num": 1074
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 35.78551,
+		"longitude": -78.642669,
+		"store_num": 1075
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 29.126141,
+		"longitude": -81.020636,
+		"store_num": 1076
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 42.643786,
+		"longitude": -73.742136,
+		"store_num": 1077
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 30.267605,
+		"longitude": -97.742984,
+		"store_num": 1078
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 42.36602,
+		"longitude": -89.034834,
+		"store_num": 1079
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 42.499793,
+		"longitude": -96.420839,
+		"store_num": 1080
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 42.16437,
+		"longitude": -88.327179,
+		"store_num": 1081
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 42.5224,
+		"longitude": -70.895809,
+		"store_num": 1082
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 41.496875,
+		"longitude": -81.536274,
+		"store_num": 1083
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 35.59846,
+		"longitude": -82.553144,
+		"store_num": 1084
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 41.120955,
+		"longitude": -74.042679,
+		"store_num": 1085
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 39.95227,
+		"longitude": -75.162369,
+		"store_num": 1086
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 33.42558,
+		"longitude": -94.048254,
+		"store_num": 1087
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 40.37782,
+		"longitude": -111.797479,
+		"store_num": 1088
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 39.17881,
+		"longitude": -96.561834,
+		"store_num": 1089
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 39.285974,
+		"longitude": -80.248889,
+		"store_num": 1090
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 41.03354,
+		"longitude": -73.764154,
+		"store_num": 1091
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 33.846975,
+		"longitude": -118.113079,
+		"store_num": 1092
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 29.76045,
+		"longitude": -95.369784,
+		"store_num": 1093
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 41.88415,
+		"longitude": -87.632409,
+		"store_num": 1094
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 33.95813,
+		"longitude": -83.373253,
+		"store_num": 1095
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 26.12739,
+		"longitude": -80.245151,
+		"store_num": 1096
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 40.60257,
+		"longitude": -75.470204,
+		"store_num": 1097
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 25.982056,
+		"longitude": -80.220529,
+		"store_num": 1098
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 38.804565,
+		"longitude": -77.043079,
+		"store_num": 1099
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 41.697016,
+		"longitude": -72.731201,
+		"store_num": 1100
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 36.33377,
+		"longitude": -119.292914,
+		"store_num": 1101
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 39.699295,
+		"longitude": -104.936449,
+		"store_num": 1102
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 30.308323,
+		"longitude": -97.949279,
+		"store_num": 1103
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 40.42328,
+		"longitude": -104.694464,
+		"store_num": 1104
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 32.640565,
+		"longitude": -117.084154,
+		"store_num": 1105
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 32.795805,
+		"longitude": -115.569969,
+		"store_num": 1106
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 30.26758,
+		"longitude": -97.742973,
+		"store_num": 1107
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 40.94139,
+		"longitude": -72.637709,
+		"store_num": 1108
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 38.015825,
+		"longitude": -121.819699,
+		"store_num": 1109
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 27.9656,
+		"longitude": -82.799764,
+		"store_num": 1110
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 40.865635,
+		"longitude": -74.160254,
+		"store_num": 1111
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 40.154665,
+		"longitude": -74.230729,
+		"store_num": 1112
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 35.705613,
+		"longitude": -78.621392,
+		"store_num": 1113
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 32.38012,
+		"longitude": -86.300629,
+		"store_num": 1114
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 35.78551,
+		"longitude": -78.642669,
+		"store_num": 1115
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 38.883607,
+		"longitude": -77.439755,
+		"store_num": 1116
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 32.876041,
+		"longitude": -80.009846,
+		"store_num": 1117
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 45.169511,
+		"longitude": -93.392205,
+		"store_num": 1118
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 45.16602,
+		"longitude": -93.208735,
+		"store_num": 1119
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 44.764803,
+		"longitude": -93.354676,
+		"store_num": 1120
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 42.18923,
+		"longitude": -71.762188,
+		"store_num": 1121
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 32.58866,
+		"longitude": -96.955964,
+		"store_num": 1122
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 29.533365,
+		"longitude": -95.119139,
+		"store_num": 1123
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 33.30288,
+		"longitude": -111.840839,
+		"store_num": 1124
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 42.3592048,
+		"longitude": -72.5559745,
+		"store_num": 1125
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 39.10296,
+		"longitude": -94.583062,
+		"store_num": 1126
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 38.984895,
+		"longitude": -94.671684,
+		"store_num": 1127
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 33.98163,
+		"longitude": -117.373879,
+		"store_num": 1128
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 35.155877,
+		"longitude": -89.776917,
+		"store_num": 1129
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 41.229497,
+		"longitude": -75.871307,
+		"store_num": 1130
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 32.715685,
+		"longitude": -117.161724,
+		"store_num": 1131
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 45.304041,
+		"longitude": -122.759897,
+		"store_num": 1132
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 32.95398,
+		"longitude": -96.816894,
+		"store_num": 1133
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 37.004385,
+		"longitude": -121.571669,
+		"store_num": 1134
+	},
+	{
+		"opening_date": 2003,
+		"latitude": 35.472005,
+		"longitude": -97.520334,
+		"store_num": 1135
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 38.57906,
+		"longitude": -121.490999,
+		"store_num": 1136
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 41.372184,
+		"longitude": -73.412639,
+		"store_num": 1137
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 29.42449,
+		"longitude": -98.494624,
+		"store_num": 1138
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 44.80172,
+		"longitude": -68.770775,
+		"store_num": 1139
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 38.422885,
+		"longitude": -77.408174,
+		"store_num": 1140
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 28.04419,
+		"longitude": -81.947864,
+		"store_num": 1141
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 33.63603,
+		"longitude": -96.609149,
+		"store_num": 1142
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 37.95362,
+		"longitude": -121.290719,
+		"store_num": 1143
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 32.221553,
+		"longitude": -110.969754,
+		"store_num": 1144
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 40.73187,
+		"longitude": -73.44573,
+		"store_num": 1145
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 33.67814,
+		"longitude": -116.297229,
+		"store_num": 1146
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 34.055282,
+		"longitude": -117.18258,
+		"store_num": 1147
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 34.738331,
+		"longitude": -82.2556,
+		"store_num": 1148
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 39.462516,
+		"longitude": -76.2790459,
+		"store_num": 1149
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 35.995275,
+		"longitude": -78.896014,
+		"store_num": 1150
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 39.964535,
+		"longitude": -76.724289,
+		"store_num": 1151
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 30.479675,
+		"longitude": -90.095324,
+		"store_num": 1152
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 29.89932,
+		"longitude": -93.929379,
+		"store_num": 1153
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 39.16659,
+		"longitude": -86.534244,
+		"store_num": 1154
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 41.88415,
+		"longitude": -87.632409,
+		"store_num": 1155
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 43.728695,
+		"longitude": -87.811969,
+		"store_num": 1156
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 41.521455,
+		"longitude": -88.208059,
+		"store_num": 1157
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 41.747282,
+		"longitude": -87.940253,
+		"store_num": 1158
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 34.090685,
+		"longitude": -118.370934,
+		"store_num": 1159
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 42.307878,
+		"longitude": -71.063401,
+		"store_num": 1160
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 33.417045,
+		"longitude": -111.831459,
+		"store_num": 1161
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 32.221553,
+		"longitude": -110.969754,
+		"store_num": 1162
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 40.825745,
+		"longitude": -73.923249,
+		"store_num": 1163
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 39.76691,
+		"longitude": -86.149964,
+		"store_num": 1164
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 40.692385,
+		"longitude": -73.989872,
+		"store_num": 1165
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 30.33138,
+		"longitude": -81.655799,
+		"store_num": 1166
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 41.70671,
+		"longitude": -73.929379,
+		"store_num": 1167
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 40.900116,
+		"longitude": -74.511513,
+		"store_num": 1168
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 40.778855,
+		"longitude": -74.027094,
+		"store_num": 1169
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 38.79591,
+		"longitude": -77.612924,
+		"store_num": 1170
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 39.11567,
+		"longitude": -77.565299,
+		"store_num": 1171
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 45.632215,
+		"longitude": -122.671544,
+		"store_num": 1172
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 40.7174,
+		"longitude": -74.043234,
+		"store_num": 1173
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 41.953505,
+		"longitude": -87.814579,
+		"store_num": 1174
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 35.090835,
+		"longitude": -92.440269,
+		"store_num": 1175
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 43.017874,
+		"longitude": -87.973058,
+		"store_num": 1176
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 41.99464,
+		"longitude": -88.295619,
+		"store_num": 1177
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 41.567656,
+		"longitude": -93.757552,
+		"store_num": 1178
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 41.679058,
+		"longitude": -86.254044,
+		"store_num": 1179
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 41.823173,
+		"longitude": -88.183183,
+		"store_num": 1180
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 30.095805,
+		"longitude": -95.617089,
+		"store_num": 1181
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 35.04259,
+		"longitude": -89.666619,
+		"store_num": 1182
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 29.787725,
+		"longitude": -95.823329,
+		"store_num": 1183
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 33.711975,
+		"longitude": -84.105989,
+		"store_num": 1184
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 39.201492,
+		"longitude": -85.919014,
+		"store_num": 1185
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 41.560555,
+		"longitude": -87.503843,
+		"store_num": 1186
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 38.137376,
+		"longitude": -92.636198,
+		"store_num": 1187
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 40.803255,
+		"longitude": -124.159554,
+		"store_num": 1188
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 38.298855,
+		"longitude": -122.285194,
+		"store_num": 1189
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 41.05182,
+		"longitude": -73.542234,
+		"store_num": 1190
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 41.343115,
+		"longitude": -81.528764,
+		"store_num": 1191
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 45.356495,
+		"longitude": -122.840484,
+		"store_num": 1192
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 40.763445,
+		"longitude": -73.527531,
+		"store_num": 1193
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 40.912456,
+		"longitude": -73.838276,
+		"store_num": 1194
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 41.88415,
+		"longitude": -87.632409,
+		"store_num": 1195
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 38.95259,
+		"longitude": -76.942074,
+		"store_num": 1196
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 35.78551,
+		"longitude": -78.642669,
+		"store_num": 1197
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 38.88549,
+		"longitude": -77.173624,
+		"store_num": 1198
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 29.9947,
+		"longitude": -95.6676,
+		"store_num": 1199
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 38.860844,
+		"longitude": -76.881636,
+		"store_num": 1200
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 33.44826,
+		"longitude": -112.075774,
+		"store_num": 1201
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 36.327175,
+		"longitude": -119.645804,
+		"store_num": 1202
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 32.08078,
+		"longitude": -81.090719,
+		"store_num": 1203
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 42.269651,
+		"longitude": -87.997346,
+		"store_num": 1204
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 42.74415,
+		"longitude": -73.761779,
+		"store_num": 1205
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 41.3799509,
+		"longitude": -72.85745,
+		"store_num": 1206
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 39.935217,
+		"longitude": -74.892448,
+		"store_num": 1207
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 28.29443,
+		"longitude": -81.406744,
+		"store_num": 1208
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 32.311721,
+		"longitude": -90.139941,
+		"store_num": 1209
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 32.563078,
+		"longitude": -97.322142,
+		"store_num": 1210
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 33.99855,
+		"longitude": -81.045249,
+		"store_num": 1211
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 41.88415,
+		"longitude": -87.632409,
+		"store_num": 1212
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 37.887285,
+		"longitude": -122.298004,
+		"store_num": 1213
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 37.338475,
+		"longitude": -121.885794,
+		"store_num": 1214
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 39.86347,
+		"longitude": -105.048879,
+		"store_num": 1215
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 35.732626,
+		"longitude": -78.853193,
+		"store_num": 1216
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 41.075525,
+		"longitude": -85.099064,
+		"store_num": 1217
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 28.22934,
+		"longitude": -80.686432,
+		"store_num": 1218
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 26.714388,
+		"longitude": -80.052689,
+		"store_num": 1219
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 33.748136,
+		"longitude": -117.874491,
+		"store_num": 1220
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 34.88884,
+		"longitude": -82.304459,
+		"store_num": 1221
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 39.161785,
+		"longitude": -76.621845,
+		"store_num": 1222
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 41.64409,
+		"longitude": -93.459719,
+		"store_num": 1223
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 39.759055,
+		"longitude": -84.194439,
+		"store_num": 1224
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 37.68698,
+		"longitude": -97.335579,
+		"store_num": 1225
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 37.68698,
+		"longitude": -97.335579,
+		"store_num": 1226
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 37.68698,
+		"longitude": -97.335579,
+		"store_num": 1227
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 39.40008,
+		"longitude": -84.562644,
+		"store_num": 1228
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 47.3008,
+		"longitude": -122.329464,
+		"store_num": 1229
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 47.19176,
+		"longitude": -122.170629,
+		"store_num": 1230
+	},
+	{
+		"opening_date": 2004,
+		"latitude": 28.17977,
+		"longitude": -82.681229,
+		"store_num": 1231
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 43.376985,
+		"longitude": -73.615129,
+		"store_num": 1232
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 34.106915,
+		"longitude": -117.651343,
+		"store_num": 1233
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 39.081665,
+		"longitude": -77.15124,
+		"store_num": 1234
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 42.8884,
+		"longitude": -87.912017,
+		"store_num": 1235
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 42.00634,
+		"longitude": -71.336914,
+		"store_num": 1236
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 37.540545,
+		"longitude": -77.433409,
+		"store_num": 1237
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 42.40807,
+		"longitude": -71.013589,
+		"store_num": 1238
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 39.630375,
+		"longitude": -79.957849,
+		"store_num": 1239
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 42.011423,
+		"longitude": -88.172309,
+		"store_num": 1240
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 39.845845,
+		"longitude": -88.952459,
+		"store_num": 1241
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 41.206336,
+		"longitude": -73.726839,
+		"store_num": 1242
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 41.282688,
+		"longitude": -73.028409,
+		"store_num": 1243
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 41.23493,
+		"longitude": -73.218634,
+		"store_num": 1244
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 34.10205,
+		"longitude": -117.435759,
+		"store_num": 1245
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 33.417045,
+		"longitude": -111.831459,
+		"store_num": 1246
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 33.329042,
+		"longitude": -111.789767,
+		"store_num": 1247
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 32.386125,
+		"longitude": -96.848424,
+		"store_num": 1248
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 35.92425,
+		"longitude": -86.870934,
+		"store_num": 1249
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 33.748315,
+		"longitude": -84.391109,
+		"store_num": 1250
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 28.81403,
+		"longitude": -81.268034,
+		"store_num": 1251
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 37.612655,
+		"longitude": -77.378419,
+		"store_num": 1252
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 39.96803,
+		"longitude": -82.885209,
+		"store_num": 1253
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 30.33138,
+		"longitude": -81.655799,
+		"store_num": 1254
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 39.708709,
+		"longitude": -104.812649,
+		"store_num": 1255
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 39.7666,
+		"longitude": -94.856074,
+		"store_num": 1256
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 45.244715,
+		"longitude": -93.306259,
+		"store_num": 1257
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 32.6505,
+		"longitude": -85.380649,
+		"store_num": 1258
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 38.032125,
+		"longitude": -78.477519,
+		"store_num": 1259
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 40.817134,
+		"longitude": -73.006157,
+		"store_num": 1260
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 30.26758,
+		"longitude": -97.742973,
+		"store_num": 1261
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 33.992668,
+		"longitude": -117.518372,
+		"store_num": 1262
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 42.52642,
+		"longitude": -71.759614,
+		"store_num": 1263
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 40.029789,
+		"longitude": -83.15107,
+		"store_num": 1264
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 39.331797,
+		"longitude": -76.437578,
+		"store_num": 1265
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 30.439775,
+		"longitude": -84.280649,
+		"store_num": 1266
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 29.76045,
+		"longitude": -95.369784,
+		"store_num": 1267
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 39.962,
+		"longitude": -83.003014,
+		"store_num": 1268
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 32.759,
+		"longitude": -97.800779,
+		"store_num": 1269
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 30.63791,
+		"longitude": -97.677014,
+		"store_num": 1270
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 36.03256,
+		"longitude": -86.789159,
+		"store_num": 1271
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 32.81133,
+		"longitude": -97.436149,
+		"store_num": 1272
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 35.468248,
+		"longitude": -82.517978,
+		"store_num": 1273
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 42.96641,
+		"longitude": -85.671179,
+		"store_num": 1274
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 42.786936,
+		"longitude": -85.511789,
+		"store_num": 1275
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 28.594574,
+		"longitude": -81.350716,
+		"store_num": 1276
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 36.096865,
+		"longitude": -79.437914,
+		"store_num": 1277
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 43.217305,
+		"longitude": -77.430164,
+		"store_num": 1278
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 27.94653,
+		"longitude": -82.459269,
+		"store_num": 1279
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 41.589785,
+		"longitude": -93.615674,
+		"store_num": 1280
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 38.62774,
+		"longitude": -90.199514,
+		"store_num": 1281
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 35.83526,
+		"longitude": -90.705054,
+		"store_num": 1282
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 26.798505,
+		"longitude": -80.063569,
+		"store_num": 1283
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 29.42449,
+		"longitude": -98.494624,
+		"store_num": 1284
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 33.84445,
+		"longitude": -118.387944,
+		"store_num": 1285
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 37.338475,
+		"longitude": -121.885794,
+		"store_num": 1286
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 42.945999,
+		"longitude": -71.528358,
+		"store_num": 1287
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 41.414125,
+		"longitude": -81.923415,
+		"store_num": 1288
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 38.56724,
+		"longitude": -77.327209,
+		"store_num": 1289
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 36.823968,
+		"longitude": -119.696589,
+		"store_num": 1290
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 33.97542,
+		"longitude": -118.034424,
+		"store_num": 1291
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 34.234773,
+		"longitude": -118.533879,
+		"store_num": 1292
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 39.75845,
+		"longitude": -105.080499,
+		"store_num": 1293
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 26.06567,
+		"longitude": -80.234949,
+		"store_num": 1294
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 39.547902,
+		"longitude": -104.888275,
+		"store_num": 1295
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 41.328125,
+		"longitude": -74.187129,
+		"store_num": 1296
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 33.831602,
+		"longitude": -118.262754,
+		"store_num": 1297
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 33.53218,
+		"longitude": -82.130539,
+		"store_num": 1298
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 41.51211,
+		"longitude": -87.968869,
+		"store_num": 1299
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 39.54602,
+		"longitude": -107.323674,
+		"store_num": 1300
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 35.08418,
+		"longitude": -106.648639,
+		"store_num": 1301
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 42.263723,
+		"longitude": -83.219789,
+		"store_num": 1302
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 41.596405,
+		"longitude": -87.785119,
+		"store_num": 1303
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 33.748315,
+		"longitude": -84.391109,
+		"store_num": 1304
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 32.74863,
+		"longitude": -97.329249,
+		"store_num": 1305
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 38.984895,
+		"longitude": -94.671684,
+		"store_num": 1306
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 40.794635,
+		"longitude": -81.522834,
+		"store_num": 1307
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 44.896315,
+		"longitude": -93.085314,
+		"store_num": 1308
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 41.449955,
+		"longitude": -87.469019,
+		"store_num": 1309
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 33.67889,
+		"longitude": -118.001574,
+		"store_num": 1310
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 39.74001,
+		"longitude": -104.992259,
+		"store_num": 1311
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 35.169419,
+		"longitude": -85.181419,
+		"store_num": 1312
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 31.327357,
+		"longitude": -89.290719,
+		"store_num": 1313
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 34.056886,
+		"longitude": -84.065333,
+		"store_num": 1314
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 28.924835,
+		"longitude": -82.004597,
+		"store_num": 1315
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 26.640845,
+		"longitude": -81.868194,
+		"store_num": 1316
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 35.149657,
+		"longitude": -90.048913,
+		"store_num": 1317
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 35.464055,
+		"longitude": -97.384684,
+		"store_num": 1318
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 28.805996,
+		"longitude": -81.64268599,
+		"store_num": 1319
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 27.84286,
+		"longitude": -82.702529,
+		"store_num": 1320
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 29.76045,
+		"longitude": -95.369784,
+		"store_num": 1321
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 38.28496,
+		"longitude": -85.762159,
+		"store_num": 1322
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 35.995275,
+		"longitude": -78.896014,
+		"store_num": 1323
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 38.439278,
+		"longitude": -78.876469,
+		"store_num": 1324
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 40.038045,
+		"longitude": -76.301269,
+		"store_num": 1325
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 41.9110123,
+		"longitude": -71.44181,
+		"store_num": 1326
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 34.98263,
+		"longitude": -80.548914,
+		"store_num": 1327
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 39.95227,
+		"longitude": -75.162369,
+		"store_num": 1328
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 41.86107,
+		"longitude": -87.862714,
+		"store_num": 1329
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 33.86441,
+		"longitude": -117.998044,
+		"store_num": 1330
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 32.68485,
+		"longitude": -114.624614,
+		"store_num": 1331
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 30.392945,
+		"longitude": -86.495772,
+		"store_num": 1332
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 39.955195,
+		"longitude": -82.805629,
+		"store_num": 1333
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 30.44342,
+		"longitude": -91.186874,
+		"store_num": 1334
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 36.26763,
+		"longitude": -95.854999,
+		"store_num": 1335
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 37.736505,
+		"longitude": -120.935744,
+		"store_num": 1336
+	},
+	{
+		"opening_date": 2005,
+		"latitude": 45.02146,
+		"longitude": -93.148322,
+		"store_num": 1337
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 40.584949,
+		"longitude": -74.417187,
+		"store_num": 1338
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 42.60544,
+		"longitude": -83.924909,
+		"store_num": 1339
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 40.64244,
+		"longitude": -74.075283,
+		"store_num": 1340
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 41.225019,
+		"longitude": -73.057314,
+		"store_num": 1341
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 26.52891,
+		"longitude": -80.063159,
+		"store_num": 1342
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 41.499945,
+		"longitude": -74.010229,
+		"store_num": 1343
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 40.43831,
+		"longitude": -79.997459,
+		"store_num": 1344
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 41.88415,
+		"longitude": -87.632409,
+		"store_num": 1345
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 37.338475,
+		"longitude": -121.885794,
+		"store_num": 1346
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 35.2225,
+		"longitude": -80.837539,
+		"store_num": 1347
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 36.64156,
+		"longitude": -93.217894,
+		"store_num": 1348
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 40.20118,
+		"longitude": -77.189114,
+		"store_num": 1349
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 40.691337,
+		"longitude": -80.280171,
+		"store_num": 1350
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 40.017361,
+		"longitude": -74.956429,
+		"store_num": 1351
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 44.99687,
+		"longitude": -123.019854,
+		"store_num": 1352
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 27.555944,
+		"longitude": -99.491088,
+		"store_num": 1353
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 40.329922,
+		"longitude": -79.730751,
+		"store_num": 1354
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 38.57906,
+		"longitude": -121.490999,
+		"store_num": 1355
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 41.0237,
+		"longitude": -81.729669,
+		"store_num": 1356
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 42.933184,
+		"longitude": -72.281497,
+		"store_num": 1357
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 42.062738,
+		"longitude": -88.124093,
+		"store_num": 1358
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 40.547095,
+		"longitude": -111.938676,
+		"store_num": 1359
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 36.19877,
+		"longitude": -86.519152,
+		"store_num": 1360
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 42.528483,
+		"longitude": -73.228334,
+		"store_num": 1361
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 43.92688,
+		"longitude": -69.961054,
+		"store_num": 1362
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 38.955443,
+		"longitude": -76.741148,
+		"store_num": 1363
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 41.260645,
+		"longitude": -95.940469,
+		"store_num": 1364
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 35.960495,
+		"longitude": -83.920914,
+		"store_num": 1365
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 41.88415,
+		"longitude": -87.632409,
+		"store_num": 1366
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 34.065435,
+		"longitude": -84.677399,
+		"store_num": 1367
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 29.76045,
+		"longitude": -95.369784,
+		"store_num": 1368
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 40.7888209,
+		"longitude": -73.207481,
+		"store_num": 1369
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 38.769035,
+		"longitude": -90.735079,
+		"store_num": 1370
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 42.793695,
+		"longitude": -83.705262,
+		"store_num": 1371
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 35.79035,
+		"longitude": -78.482234,
+		"store_num": 1372
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 41.260645,
+		"longitude": -95.940469,
+		"store_num": 1373
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 33.686887,
+		"longitude": -117.825348,
+		"store_num": 1374
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 33.398935,
+		"longitude": -84.587694,
+		"store_num": 1375
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 35.2225,
+		"longitude": -80.837539,
+		"store_num": 1376
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 36.119485,
+		"longitude": -80.072529,
+		"store_num": 1377
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 44.972022,
+		"longitude": -92.964473,
+		"store_num": 1378
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 38.30089,
+		"longitude": -77.459144,
+		"store_num": 1379
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 29.76045,
+		"longitude": -95.369784,
+		"store_num": 1380
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 33.450295,
+		"longitude": -112.264914,
+		"store_num": 1381
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 25.93437,
+		"longitude": -97.4804599,
+		"store_num": 1382
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 33.613075,
+		"longitude": -85.835699,
+		"store_num": 1383
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 30.27732,
+		"longitude": -87.683104,
+		"store_num": 1384
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 30.636305,
+		"longitude": -81.606179,
+		"store_num": 1385
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 41.239287,
+		"longitude": -81.343939,
+		"store_num": 1386
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 42.0955969,
+		"longitude": -76.812471,
+		"store_num": 1387
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 41.44876,
+		"longitude": -82.707374,
+		"store_num": 1388
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 41.314965,
+		"longitude": -81.345497,
+		"store_num": 1389
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 39.9021,
+		"longitude": -79.724184,
+		"store_num": 1390
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 37.338475,
+		"longitude": -121.885794,
+		"store_num": 1391
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 27.33824,
+		"longitude": -82.526865,
+		"store_num": 1392
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 38.723235,
+		"longitude": -90.255024,
+		"store_num": 1393
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 26.616265,
+		"longitude": -80.057244,
+		"store_num": 1394
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 36.068994,
+		"longitude": -79.794704,
+		"store_num": 1395
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 40.184013,
+		"longitude": -75.540579,
+		"store_num": 1396
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 33.19895,
+		"longitude": -96.614994,
+		"store_num": 1397
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 34.201965,
+		"longitude": -118.601564,
+		"store_num": 1398
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 29.76045,
+		"longitude": -95.369784,
+		"store_num": 1399
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 33.21656,
+		"longitude": -97.130984,
+		"store_num": 1400
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 40.609448,
+		"longitude": -111.987346,
+		"store_num": 1401
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 41.554082,
+		"longitude": -73.046155,
+		"store_num": 1402
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 36.171915,
+		"longitude": -115.139974,
+		"store_num": 1403
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 43.493767,
+		"longitude": -70.456891,
+		"store_num": 1404
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 41.638083,
+		"longitude": -70.970433,
+		"store_num": 1405
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 35.721714,
+		"longitude": -77.916158,
+		"store_num": 1406
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 35.409952,
+		"longitude": -80.580659,
+		"store_num": 1407
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 39.395365,
+		"longitude": -75.037749,
+		"store_num": 1408
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 33.748315,
+		"longitude": -84.391109,
+		"store_num": 1409
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 42.117629,
+		"longitude": -70.956766,
+		"store_num": 1410
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 33.658975,
+		"longitude": -84.017309,
+		"store_num": 1411
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 41.807779,
+		"longitude": -88.322213,
+		"store_num": 1412
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 33.999257,
+		"longitude": -117.831459,
+		"store_num": 1413
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 39.717851,
+		"longitude": -74.970728,
+		"store_num": 1414
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 43.26225,
+		"longitude": -70.864269,
+		"store_num": 1415
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 39.986685,
+		"longitude": -104.818169,
+		"store_num": 1416
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 37.671197,
+		"longitude": -122.086137,
+		"store_num": 1417
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 40.259876,
+		"longitude": -76.882222,
+		"store_num": 1418
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 29.42449,
+		"longitude": -98.494624,
+		"store_num": 1419
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 25.728985,
+		"longitude": -80.237419,
+		"store_num": 1420
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 44.94848,
+		"longitude": -93.343394,
+		"store_num": 1421
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 33.59233,
+		"longitude": -101.855869,
+		"store_num": 1422
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 42.904405,
+		"longitude": -78.686394,
+		"store_num": 1423
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 48.05969,
+		"longitude": -122.176922,
+		"store_num": 1424
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 46.805371,
+		"longitude": -100.779319,
+		"store_num": 1425
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 33.667578,
+		"longitude": -117.327868,
+		"store_num": 1426
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 39.86347,
+		"longitude": -105.048879,
+		"store_num": 1427
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 43.016655,
+		"longitude": -88.006644,
+		"store_num": 1428
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 45.085105,
+		"longitude": -93.26326,
+		"store_num": 1429
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 40.43831,
+		"longitude": -79.997459,
+		"store_num": 1430
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 36.712395,
+		"longitude": -76.2380869,
+		"store_num": 1431
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 34.612143,
+		"longitude": -92.496491,
+		"store_num": 1432
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 29.54771,
+		"longitude": -95.805384,
+		"store_num": 1433
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 43.582635,
+		"longitude": -116.569624,
+		"store_num": 1434
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 42.481755,
+		"longitude": -83.240929,
+		"store_num": 1435
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 30.191645,
+		"longitude": -85.832489,
+		"store_num": 1436
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 28.19395,
+		"longitude": -82.592309,
+		"store_num": 1437
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 43.2176469,
+		"longitude": -77.592579,
+		"store_num": 1438
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 41.85076,
+		"longitude": -72.644174,
+		"store_num": 1439
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 38.89116,
+		"longitude": -121.292809,
+		"store_num": 1440
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 31.759165,
+		"longitude": -106.487494,
+		"store_num": 1441
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 41.075525,
+		"longitude": -85.099064,
+		"store_num": 1442
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 40.16394,
+		"longitude": -105.100504,
+		"store_num": 1443
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 39.518032,
+		"longitude": -104.754615,
+		"store_num": 1444
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 35.22073,
+		"longitude": -97.446614,
+		"store_num": 1445
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 39.11338,
+		"longitude": -94.626824,
+		"store_num": 1446
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 45.015865,
+		"longitude": -93.576674,
+		"store_num": 1447
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 26.20742,
+		"longitude": -98.229364,
+		"store_num": 1448
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 40.050833,
+		"longitude": -80.633759,
+		"store_num": 1449
+	},
+	{
+		"opening_date": 2006,
+		"latitude": 26.215335,
+		"longitude": -98.325794,
+		"store_num": 1450
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 31.22324,
+		"longitude": -85.3933,
+		"store_num": 1451
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 30.33138,
+		"longitude": -81.655799,
+		"store_num": 1452
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 41.72029,
+		"longitude": -87.752689,
+		"store_num": 1453
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 45.305145,
+		"longitude": -93.794574,
+		"store_num": 1454
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 33.577314,
+		"longitude": -112.240909,
+		"store_num": 1455
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 41.504365,
+		"longitude": -81.690459,
+		"store_num": 1456
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 30.33138,
+		"longitude": -81.655799,
+		"store_num": 1457
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 36.167762,
+		"longitude": -86.778366,
+		"store_num": 1458
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 39.93743,
+		"longitude": -77.660754,
+		"store_num": 1459
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 32.7477,
+		"longitude": -97.007199,
+		"store_num": 1460
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 34.06457,
+		"longitude": -117.647809,
+		"store_num": 1461
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 38.47333,
+		"longitude": -77.996139,
+		"store_num": 1462
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 43.975589,
+		"longitude": -75.913164,
+		"store_num": 1463
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 42.593309,
+		"longitude": -83.01337,
+		"store_num": 1464
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 38.57101,
+		"longitude": -121.550158,
+		"store_num": 1465
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 26.139094,
+		"longitude": -81.795793,
+		"store_num": 1466
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 43.001905,
+		"longitude": -89.405819,
+		"store_num": 1467
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 39.95227,
+		"longitude": -75.162369,
+		"store_num": 1468
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 38.526268,
+		"longitude": -76.977601,
+		"store_num": 1469
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 33.743325,
+		"longitude": -117.818824,
+		"store_num": 1470
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 33.425505,
+		"longitude": -111.938299,
+		"store_num": 1471
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 40.213165,
+		"longitude": -77.008359,
+		"store_num": 1472
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 26.52891,
+		"longitude": -80.063159,
+		"store_num": 1473
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 38.83311,
+		"longitude": -104.821729,
+		"store_num": 1474
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 41.504365,
+		"longitude": -81.690459,
+		"store_num": 1475
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 44.943829,
+		"longitude": -93.093326,
+		"store_num": 1476
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 42.39658,
+		"longitude": -83.369574,
+		"store_num": 1477
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 32.90101,
+		"longitude": -96.569599,
+		"store_num": 1478
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 29.42449,
+		"longitude": -98.494624,
+		"store_num": 1479
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 40.44204,
+		"longitude": -75.336312,
+		"store_num": 1480
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 27.274187,
+		"longitude": -80.363319,
+		"store_num": 1481
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 41.34316,
+		"longitude": -73.078714,
+		"store_num": 1482
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 37.125385,
+		"longitude": -121.661324,
+		"store_num": 1483
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 38.55354,
+		"longitude": -91.001079,
+		"store_num": 1484
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 40.37852,
+		"longitude": -74.548264,
+		"store_num": 1485
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 34.523211,
+		"longitude": -117.215742,
+		"store_num": 1486
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 40.629342,
+		"longitude": -79.968797,
+		"store_num": 1487
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 41.517095,
+		"longitude": -87.735984,
+		"store_num": 1488
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 41.446444,
+		"longitude": -81.853026,
+		"store_num": 1489
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 42.048335,
+		"longitude": -71.082497,
+		"store_num": 1490
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 28.60803,
+		"longitude": -80.807984,
+		"store_num": 1491
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 39.033075,
+		"longitude": -77.406568,
+		"store_num": 1492
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 32.515943,
+		"longitude": -93.735388,
+		"store_num": 1493
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 32.46182,
+		"longitude": -86.450699,
+		"store_num": 1494
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 33.245035,
+		"longitude": -86.816114,
+		"store_num": 1495
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 33.980619,
+		"longitude": -81.236188,
+		"store_num": 1496
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 31.09798,
+		"longitude": -97.342854,
+		"store_num": 1497
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 30.60276,
+		"longitude": -87.161522,
+		"store_num": 1498
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 43.177058,
+		"longitude": -76.083223,
+		"store_num": 1499
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 38.917535,
+		"longitude": -78.193527,
+		"store_num": 1500
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 31.149765,
+		"longitude": -81.495564,
+		"store_num": 1501
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 40.81361,
+		"longitude": -96.707729,
+		"store_num": 1502
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 33.759305,
+		"longitude": -117.986499,
+		"store_num": 1503
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 34.14632,
+		"longitude": -118.248024,
+		"store_num": 1504
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 36.598545,
+		"longitude": -82.180794,
+		"store_num": 1505
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 33.91658,
+		"longitude": -117.261134,
+		"store_num": 1506
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 33.79677,
+		"longitude": -118.167704,
+		"store_num": 1507
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 39.869985,
+		"longitude": -83.070444,
+		"store_num": 1508
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 34.607389,
+		"longitude": -86.979767,
+		"store_num": 1509
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 25.866582,
+		"longitude": -80.290762,
+		"store_num": 1510
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 28.15235,
+		"longitude": -82.461504,
+		"store_num": 1511
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 33.953195,
+		"longitude": -84.545879,
+		"store_num": 1512
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 33.748315,
+		"longitude": -84.391109,
+		"store_num": 1513
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 33.61941,
+		"longitude": -117.677638,
+		"store_num": 1514
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 39.920303,
+		"longitude": -75.490454,
+		"store_num": 1515
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 38.30089,
+		"longitude": -77.459144,
+		"store_num": 1516
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 45.098291,
+		"longitude": -93.4431,
+		"store_num": 1517
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 39.752135,
+		"longitude": -105.053244,
+		"store_num": 1518
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 27.87171,
+		"longitude": -82.329219,
+		"store_num": 1519
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 33.44826,
+		"longitude": -112.075774,
+		"store_num": 1520
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 35.2225,
+		"longitude": -80.837539,
+		"store_num": 1521
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 40.989035,
+		"longitude": -74.302614,
+		"store_num": 1522
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 28.565336,
+		"longitude": -81.588404,
+		"store_num": 1523
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 26.272495,
+		"longitude": -80.253059,
+		"store_num": 1524
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 38.677049,
+		"longitude": -121.07781,
+		"store_num": 1525
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 33.89413,
+		"longitude": -118.224249,
+		"store_num": 1526
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 37.338475,
+		"longitude": -121.885794,
+		"store_num": 1527
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 32.50064,
+		"longitude": -94.741075,
+		"store_num": 1528
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 42.73011,
+		"longitude": -71.183679,
+		"store_num": 1529
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 30.26758,
+		"longitude": -97.742973,
+		"store_num": 1530
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 27.94653,
+		"longitude": -82.459269,
+		"store_num": 1531
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 47.475237,
+		"longitude": -122.204986,
+		"store_num": 1532
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 41.759865,
+		"longitude": -70.723729,
+		"store_num": 1533
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 41.64444,
+		"longitude": -88.082024,
+		"store_num": 1534
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 38.06547,
+		"longitude": -78.89098,
+		"store_num": 1535
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 44.88109,
+		"longitude": -93.267924,
+		"store_num": 1536
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 41.800911,
+		"longitude": -73.086407,
+		"store_num": 1537
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 36.68162,
+		"longitude": -121.802309,
+		"store_num": 1538
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 44.911632,
+		"longitude": -93.348227,
+		"store_num": 1539
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 46.274065,
+		"longitude": -119.273729,
+		"store_num": 1540
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 26.62982,
+		"longitude": -81.956939,
+		"store_num": 1541
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 44.01925,
+		"longitude": -92.459779,
+		"store_num": 1542
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 41.697995,
+		"longitude": -81.337269,
+		"store_num": 1543
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 43.04999,
+		"longitude": -76.147389,
+		"store_num": 1544
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 42.777539,
+		"longitude": -71.076796,
+		"store_num": 1545
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 41.260645,
+		"longitude": -95.940469,
+		"store_num": 1546
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 43.23424,
+		"longitude": -86.245929,
+		"store_num": 1547
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 33.831602,
+		"longitude": -118.262754,
+		"store_num": 1548
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 34.26394,
+		"longitude": -118.497943,
+		"store_num": 1549
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 38.512135,
+		"longitude": -89.984164,
+		"store_num": 1550
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 32.08078,
+		"longitude": -81.090719,
+		"store_num": 1551
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 36.5478,
+		"longitude": -82.560419,
+		"store_num": 1552
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 33.19895,
+		"longitude": -96.614994,
+		"store_num": 1553
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 37.6367869,
+		"longitude": -77.511425,
+		"store_num": 1554
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 33.150495,
+		"longitude": -96.834639,
+		"store_num": 1555
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 44.76562,
+		"longitude": -93.27419,
+		"store_num": 1556
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 33.553072,
+		"longitude": -112.186132,
+		"store_num": 1557
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 30.506609,
+		"longitude": -97.82189,
+		"store_num": 1558
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 38.478645,
+		"longitude": -107.877619,
+		"store_num": 1559
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 38.811545,
+		"longitude": -90.853949,
+		"store_num": 1560
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 41.084195,
+		"longitude": -81.514059,
+		"store_num": 1561
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 42.591785,
+		"longitude": -88.436194,
+		"store_num": 1562
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 36.206495,
+		"longitude": -119.343049,
+		"store_num": 1563
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 41.40929,
+		"longitude": -82.238999,
+		"store_num": 1564
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 32.879545,
+		"longitude": -111.750324,
+		"store_num": 1565
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 33.44826,
+		"longitude": -112.075774,
+		"store_num": 1566
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 33.608218,
+		"longitude": -86.797398,
+		"store_num": 1567
+	},
+	{
+		"opening_date": 2007,
+		"latitude": 40.029789,
+		"longitude": -83.15107,
+		"store_num": 1568
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 34.07215,
+		"longitude": -117.939187,
+		"store_num": 1569
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 25.927435,
+		"longitude": -80.224469,
+		"store_num": 1570
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 40.692385,
+		"longitude": -73.989872,
+		"store_num": 1571
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 38.89037,
+		"longitude": -77.031959,
+		"store_num": 1572
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 38.773905,
+		"longitude": -76.074749,
+		"store_num": 1573
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 44.318036,
+		"longitude": -69.776218,
+		"store_num": 1574
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 26.442422,
+		"longitude": -81.8110449,
+		"store_num": 1575
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 29.456468,
+		"longitude": -95.065475,
+		"store_num": 1576
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 38.751195,
+		"longitude": -77.471119,
+		"store_num": 1577
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 32.778155,
+		"longitude": -96.795404,
+		"store_num": 1578
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 30.210865,
+		"longitude": -95.754499,
+		"store_num": 1579
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 36.14975,
+		"longitude": -95.993354,
+		"store_num": 1580
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 35.974664,
+		"longitude": -86.512133,
+		"store_num": 1581
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 35.751499,
+		"longitude": -86.929823,
+		"store_num": 1582
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 33.244685,
+		"longitude": -111.634519,
+		"store_num": 1583
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 28.157995,
+		"longitude": -81.603404,
+		"store_num": 1584
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 35.160185,
+		"longitude": -84.875324,
+		"store_num": 1585
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 35.125704,
+		"longitude": -114.578445,
+		"store_num": 1586
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 30.220325,
+		"longitude": -92.017054,
+		"store_num": 1587
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 41.260645,
+		"longitude": -95.940469,
+		"store_num": 1588
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 40.43831,
+		"longitude": -79.997459,
+		"store_num": 1589
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 34.184895,
+		"longitude": -83.924534,
+		"store_num": 1590
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 44.74275,
+		"longitude": -93.217579,
+		"store_num": 1591
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 36.755,
+		"longitude": -76.059229,
+		"store_num": 1592
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 34.28084,
+		"longitude": -119.292324,
+		"store_num": 1593
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 42.29884,
+		"longitude": -83.486759,
+		"store_num": 1594
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 37.93781,
+		"longitude": -122.342709,
+		"store_num": 1595
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 38.653663,
+		"longitude": -90.553177,
+		"store_num": 1596
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 35.2225,
+		"longitude": -80.837539,
+		"store_num": 1597
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 26.32004,
+		"longitude": -80.099789,
+		"store_num": 1598
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 40.718825,
+		"longitude": -74.282014,
+		"store_num": 1599
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 26.272495,
+		"longitude": -80.253059,
+		"store_num": 1600
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 32.67194,
+		"longitude": -117.105419,
+		"store_num": 1601
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 39.640705,
+		"longitude": -105.025349,
+		"store_num": 1602
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 37.27559,
+		"longitude": -76.70973,
+		"store_num": 1603
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 37.804395,
+		"longitude": -121.302544,
+		"store_num": 1604
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 34.578485,
+		"longitude": -118.116454,
+		"store_num": 1605
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 37.061395,
+		"longitude": -120.847564,
+		"store_num": 1606
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 26.640845,
+		"longitude": -81.868194,
+		"store_num": 1607
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 29.550588,
+		"longitude": -81.260098,
+		"store_num": 1608
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 26.640845,
+		"longitude": -81.868194,
+		"store_num": 1609
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 31.08832,
+		"longitude": -97.659514,
+		"store_num": 1610
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 33.40203,
+		"longitude": -86.953994,
+		"store_num": 1611
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 41.639135,
+		"longitude": -88.448029,
+		"store_num": 1612
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 39.184005,
+		"longitude": -78.164049,
+		"store_num": 1613
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 42.998362,
+		"longitude": -78.188247,
+		"store_num": 1614
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 37.352303,
+		"longitude": -120.602652,
+		"store_num": 1615
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 42.897449,
+		"longitude": -88.031113,
+		"store_num": 1616
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 29.99847,
+		"longitude": -95.17646,
+		"store_num": 1617
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 39.76691,
+		"longitude": -86.149964,
+		"store_num": 1618
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 39.693218,
+		"longitude": -74.254756,
+		"store_num": 1619
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 39.290555,
+		"longitude": -76.609604,
+		"store_num": 1620
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 35.006673,
+		"longitude": -80.669173,
+		"store_num": 1621
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 33.93187,
+		"longitude": -117.944069,
+		"store_num": 1622
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 40.581505,
+		"longitude": -105.076264,
+		"store_num": 1623
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 36.03082,
+		"longitude": -114.981094,
+		"store_num": 1624
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 36.585983,
+		"longitude": -79.417209,
+		"store_num": 1625
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 38.678435,
+		"longitude": -121.773124,
+		"store_num": 1626
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 38.59788,
+		"longitude": -90.012694,
+		"store_num": 1627
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 33.83276,
+		"longitude": -117.915719,
+		"store_num": 1628
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 39.10296,
+		"longitude": -94.583062,
+		"store_num": 1629
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 32.74863,
+		"longitude": -97.329249,
+		"store_num": 1630
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 29.42449,
+		"longitude": -98.494624,
+		"store_num": 1631
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 30.670985,
+		"longitude": -96.370424,
+		"store_num": 1632
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 29.69887,
+		"longitude": -98.120939,
+		"store_num": 1633
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 41.69856,
+		"longitude": -71.46166,
+		"store_num": 1634
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 34.136583,
+		"longitude": -84.286094,
+		"store_num": 1635
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 41.205515,
+		"longitude": -76.78662,
+		"store_num": 1636
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 34.961281,
+		"longitude": -89.827086,
+		"store_num": 1637
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 42.695657,
+		"longitude": -82.921717,
+		"store_num": 1638
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 47.169795,
+		"longitude": -122.293486,
+		"store_num": 1639
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 42.584215,
+		"longitude": -83.242454,
+		"store_num": 1640
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 42.527235,
+		"longitude": -87.853944,
+		"store_num": 1641
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 42.12598,
+		"longitude": -71.102135,
+		"store_num": 1642
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 38.9767,
+		"longitude": -76.489934,
+		"store_num": 1643
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 33.91819,
+		"longitude": -118.353754,
+		"store_num": 1644
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 35.3846,
+		"longitude": -94.421299,
+		"store_num": 1645
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 40.411375,
+		"longitude": -75.920474,
+		"store_num": 1646
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 33.748315,
+		"longitude": -84.391109,
+		"store_num": 1647
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 61.581701,
+		"longitude": -149.465533,
+		"store_num": 1648
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 41.88415,
+		"longitude": -87.632409,
+		"store_num": 1649
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 41.23493,
+		"longitude": -73.218634,
+		"store_num": 1650
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 61.21756,
+		"longitude": -149.857749,
+		"store_num": 1651
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 28.53774,
+		"longitude": -81.377389,
+		"store_num": 1652
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 39.768059,
+		"longitude": -75.141255,
+		"store_num": 1653
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 38.704476,
+		"longitude": -76.882355,
+		"store_num": 1654
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 33.436305,
+		"longitude": -112.358299,
+		"store_num": 1655
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 30.26758,
+		"longitude": -97.742973,
+		"store_num": 1656
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 29.76045,
+		"longitude": -95.369784,
+		"store_num": 1657
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 36.070965,
+		"longitude": -119.016189,
+		"store_num": 1658
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 33.766425,
+		"longitude": -118.192394,
+		"store_num": 1659
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 41.844662,
+		"longitude": -71.883186,
+		"store_num": 1660
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 41.600735,
+		"longitude": -72.878204,
+		"store_num": 1661
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 37.540545,
+		"longitude": -77.433409,
+		"store_num": 1662
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 40.799865,
+		"longitude": -76.861842,
+		"store_num": 1663
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 41.075525,
+		"longitude": -85.099064,
+		"store_num": 1664
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 33.724263,
+		"longitude": -116.233863,
+		"store_num": 1665
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 34.07537,
+		"longitude": -84.294554,
+		"store_num": 1666
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 40.853475,
+		"longitude": -74.828785,
+		"store_num": 1667
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 37.544885,
+		"longitude": -97.270084,
+		"store_num": 1668
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 44.84772,
+		"longitude": -93.789164,
+		"store_num": 1669
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 45.28986,
+		"longitude": -93.612744,
+		"store_num": 1670
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 44.081165,
+		"longitude": -103.230889,
+		"store_num": 1671
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 39.708709,
+		"longitude": -104.812649,
+		"store_num": 1672
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 44.69913,
+		"longitude": -73.453032,
+		"store_num": 1673
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 35.50542,
+		"longitude": -97.737269,
+		"store_num": 1674
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 42.938969,
+		"longitude": -74.188929,
+		"store_num": 1675
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 32.715685,
+		"longitude": -117.161724,
+		"store_num": 1676
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 29.42449,
+		"longitude": -98.494624,
+		"store_num": 1677
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 34.424145,
+		"longitude": -117.319209,
+		"store_num": 1678
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 36.33377,
+		"longitude": -119.292914,
+		"store_num": 1679
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 33.73787,
+		"longitude": -118.284664,
+		"store_num": 1680
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 33.685,
+		"longitude": -117.153919,
+		"store_num": 1681
+	},
+	{
+		"opening_date": 2008,
+		"latitude": 39.541,
+		"longitude": -119.749194,
+		"store_num": 1682
+	}
+]
