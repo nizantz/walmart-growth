@@ -8,6 +8,10 @@ mapboxgl.accessToken = 'pk.eyJ1Ijoibml6YW50eiIsImEiOiJjajN6YjltOWEwMXllMnFtdTRnN
 var plotData = [];
 //var mapPath = "fixtures/us.json";
 var sliderWidth = window.innerWidth - 20;
+var tooltip = d3.select('#map')
+    .append('div')
+    .attr('class', 'hidden tooltip'),
+    tooltipDateFormat=d3.time.format("%b %e, %Y %X");
 
 // var projection = d3.geo.albersUsa()
 //     .scale(1400)
@@ -32,7 +36,7 @@ function loadMap(){
                     //center: [34.8951,98.0364],
                     center: [-98.0364,34.8951],
                     zoom: 4
-                });  
+                });
   map.scrollZoom.disable();
   //map.doubleClickZoom.disable();
   //map.addControl(new mapboxgl.Navigation());
@@ -74,7 +78,39 @@ var displayStores = function(data) {
         .attr("cy", function (d) { var y = project(d).y;
           return y;
             })
-        // .attr("cx", function(d) {
+            .on('mousemove', function(d) {
+                 var mouse = d3.mouse(svg1.node()).map(function(d){
+                     return parseInt(d);
+                 });
+                tooltip.style("right", "");
+                tooltip.style("left", "");
+                tooltip.style("bottom", "");
+                tooltip.style("top", "");
+                if (mouse[0] > window.scrollX + mapWidth/2 ){
+                    tooltip.style("right", (mapWidth - mouse[0] + 10) + "px");
+                }
+                else {
+                    tooltip.style("left", (mouse[0] + 10) + "px");
+                }
+                if (mouse[1] > window.scrollY + mapHeight/2 ){
+                    tooltip.style("bottom", (mapHeight - mouse[1] + 10) + "px");
+                }
+                else {
+                    tooltip.style("top", (mouse[1] + 10) + "px");
+                }
+                tooltip.classed('hidden',false)
+                    .style("color","black")
+                    .style("background-color","white")
+                    .html('<div>' +
+                        '<div><span>Store Number: '+d.store_num+'</span></div>' +
+                        '<div><span>Store Address: '+d.street_address+','+d.postal_code+'</span></div>' +
+                        '<div><span>Store Open Year: '+d.opening_date+'</span></div>'+
+                        '</div>')
+            })
+            .on('mouseout', function(){
+                tooltip.classed('hidden',true);
+            })
+                    // .attr("cx", function(d) {
         //       return projection([d.longitude, d.latitude])[0];
         //       })
         // .attr("cy", function(d) {
@@ -106,6 +142,10 @@ var displayStores = function(data) {
                             })
                     }
                     render();
+
+                    map.on("move", function() {
+                        render()
+                    });
 };//displayStores
 
 var dateTimeOutput = d3.select('#year').append('p');

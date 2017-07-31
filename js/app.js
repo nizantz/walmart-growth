@@ -16,6 +16,11 @@ var svg = d3.select("#map").append("svg")
     .attr("width", width)
     .attr("height", height);
 
+    var tooltip = d3.select('#map')
+        .append('div')
+        .attr('class', 'hidden tooltip'),
+        tooltipDateFormat=d3.time.format("%b %e, %Y %X");
+
 d3.json(mapPath, function(error, us) {
     if (error) return console.error(error);
 
@@ -27,7 +32,7 @@ d3.json(mapPath, function(error, us) {
     var maxDate,minDate;
     d3.json("fixtures/walmart.json", function (error, collection) {
             plotData = collection;
-            console.log(minDate);
+            //console.log(minDate);
 
     });
 
@@ -44,6 +49,38 @@ var displayStores = function(data) {
               })
         .attr("cy", function(d) {
               return projection([d.longitude, d.latitude])[1];
+              })
+              .on('mousemove', function(d) {
+                   var mouse = d3.mouse(svg.node()).map(function(d){
+                       return parseInt(d);
+                   });
+                  tooltip.style("right", "");
+                  tooltip.style("left", "");
+                  tooltip.style("bottom", "");
+                  tooltip.style("top", "");
+                  if (mouse[0] > window.scrollX + width/2 ){
+                      tooltip.style("right", (width - mouse[0] + 10) + "px");
+                  }
+                  else {
+                      tooltip.style("left", (mouse[0] + 10) + "px");
+                  }
+                  if (mouse[1] > window.scrollY + height/2 ){
+                      tooltip.style("bottom", (height - mouse[1] + 10) + "px");
+                  }
+                  else {
+                      tooltip.style("top", (mouse[1] + 10) + "px");
+                  }
+                  tooltip.classed('hidden',false)
+                      .style("color","black")
+                      .style("background-color","white")
+                      .html('<div>' +
+                          '<div><span>Store Number: '+d.store_num+'</span></div>' +
+                          '<div><span>Store Address: '+d.street_address+','+d.postal_code+'</span></div>' +
+                          '<div><span>Store Open Year: '+d.opening_date+'</span></div>'+
+                          '</div>')
+              })
+              .on('mouseout', function(){
+                  tooltip.classed('hidden',true);
               })
         .attr("r", 12)
         .attr("fill","#007dc6")
